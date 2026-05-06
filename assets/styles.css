@@ -34,9 +34,9 @@ main p,
 main li {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
 }
 
 /* Belt-and-suspenders: never justify these even if they live inside main */
@@ -48,7 +48,9 @@ main blockquote,
 main .quarto-title-block p,
 main .subtitle {
   text-align: left;
-  hyphens: manual;
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
 }
 
 /* Print styles — useful when someone prints the CV page */
@@ -71,6 +73,7 @@ main table:has(colgroup) {
 main table td {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-}
+  hyphens: none;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+}ß

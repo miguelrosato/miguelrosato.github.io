@@ -31,24 +31,21 @@ I am based in **Madrid, Spain**, with Italian citizenship and a global operation
 
 My technical identity sits at three intersections: **HPHT completions and well testing**, **deepwater subsea completions** (including 6th-generation drillship operations and alternate-path gravel-pack sand control) and **workover engineering at scale** — most recently scaling Rumaila's annual workover throughput by approximately 39% with the same rig count.
 
-In May 2026 I will complete a **Professional Certificate in Data Analytics at Imperial College London**, the focus of which has been bringing rigorous quantitative methods — supervised and unsupervised machine learning, mixed-integer linear programming, and survival analysis — into the daily decision-making of a wells engineering organisation. This site is the public surface of that bridge: my technical heritage, my analytics work and where the two meet.
+In May 2026 I completed **The Professional Certificate in Data Analytics at Imperial College London**, the focus of which has been bringing rigorous quantitative methods — supervised and unsupervised machine learning, mixed-integer linear programming, and survival analysis — into the daily decision-making of a wells engineering organisation. This site is the public surface of that bridge: my technical heritage, my analytics work and where the two meet.
 
 ## Recent projects
 
-- **Imperial College Capstone — Workover Fleet Optimisation** *(in progress, due May 2026)*. End-to-end analytics on a six-year workover performance dataset, culminating in a mixed-integer linear programming model that recommends a dedicated heavy-duty workover rig for complex interventions. [See the case study →](analytics/capstone.qmd)
+- **Imperial College Capstone — Workover Fleet Optimisation** *(May 2026)*. End-to-end analytics on a six-year workover performance dataset, culminating in a mixed-integer linear programming model that recommends a dedicated heavy-duty workover rig for complex interventions. [See the case study →](analytics/capstone.qmd)
 - **ESP Failure Predictive Analysis**. Survival-analysis approach (Cox proportional hazards / random survival forests) to forecast electric submersible pump failures before they happen — enabling proactive scheduling instead of reactive intervention. ESP workovers represent roughly 73% of all jobs on the field.
-- **Rumaila Workover Programme Scaling**. Increased annual workover deliveries from 180 in 2024 to 250 in 2025 with a comparable rig count, contributing approximately 142,000 bbl/d of incremental oil recovery and ~US$100M in CAPEX/OPEX savings via reutilisation of 13Cr OCTG.
+- **Rumaila Workover Programme Scaling**. Increased annual workover deliveries from 180 in 2024 to 250 in 2025 with a comparable rig count, contributing approximately 142,000 bbl/d of incremental oil recovery and ~US$100M in CAPEX/OPEX savings via reutilisation of 13Cr OCTG, and other optimisation initiatives.
 
 ## Goals
 
 I am building toward three concurrent positions: **executive operational leadership in upstream wells** (Wells Manager, Operations Manager), **a recognised authority in the application of data analytics to wells engineering**, and an **independent advisory practice** for HPHT design reviews, M&A technical due diligence, and engineering training.
 
-I am preparing an application to the **SPE Distinguished Lecturer Programme** for the 2027–28 cycle on the topic of analytics-driven workover programme management.
+I am preparing an application to the **SPE Distinguished Lecturer Programme** for the near future on the topic of HPHT Completions in different Fiield Environments, and analytics-driven completion and workover programme management.
 
 ## Professional & personal interests
 
-Beyond wells: structured problem decomposition (the same discipline whether the problem is a 14,500 psi DST or a poorly-posed optimisation), the operational economics of mature fields, and helping engineers earlier in their careers navigate the technical-to-management transition that I am currently working through myself. Outside work: my family in Madrid, languages, and the long-form study habits I am rebuilding through the Imperial certificate.
+Beyond wells: structured problem decomposition (the same discipline whether the problem is a 14,500 psi DST or a poorly-posed optimisation), the operational economics of mature fields, and helping engineers earlier in their careers navigate the technical-to-management transition that I am currently working through myself. Outside work: Enjoy time with my family in Madrid, Gravel Cycling, reading, AI application to my line of work and the long-form study habits I am rebuilding through the Imperial certificate.
 
-::: {.callout-note appearance="simple"}
-**About this site.** Built with [Quarto](https://quarto.org), hosted on [GitHub Pages](https://pages.github.com), and submitted in fulfilment of the Imperial College Data Analytics Module 23 *Publishing an interactive site or dashboard* assignment. The featured interactive component lives inside the [Capstone case study](analytics/capstone.qmd).
-:::

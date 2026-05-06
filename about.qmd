@@ -14,7 +14,7 @@ I work in two deliberate modes. In **expert mode** — completion design, workov
 **Completions & Workover Engineering Lead — Basra Energy Company Limited**
 *BP / CNPC joint venture · Rumaila Field, Iraq · January 2024 – present*
 
-Leading a team of fourteen engineers — six expat senior workover and stimulation engineers, two expat senior ESP specialists, six local senior workover engineers, twenty-six local workover engineers — responsible for the planning and preparation of completions for the field's drilling and workover programme.
+•	Lead the 19-position completions and workover engineering function (3 expatriate senior workover/stimulation engineers, 3 local senior workover engineers, 13 local workover engineers — planning desk), responsible for the planning, design and preparation of all field completion and workover programmes.
 
 Selected outcomes 2024–2025:
 
@@ -28,13 +28,15 @@ Selected outcomes 2024–2025:
 
 | Period | Operator | Role context |
 |---|---|---|
-| 2024 – present | **Basra Energy Company Limited** (BP/CNPC JV) | Completions & Workover Lead, Rumaila Field, Iraq |
+| 2024 – present | **Basra Energy Company Ltd** (BP/CNPC JV) | Completions & Workover Lead, Rumaila Field, Iraq |
 | 2018 – 2023 | **Reliance Industries Limited** | Deepwater HPHT campaign — KG-D6, Bay of Bengal |
 | 2017 – 2018 | **Petronas Carigali** | HPHT carbonate completions, Malaysia |
 | 2014 – 2017 | **Maersk Oil North Sea UK** | HPHT completions and DST, including the Culzean development (14,500 psi / 380°F) |
 | 2010 – 2014 | **BP** | Subsea and platform completions |
-| 2005 – 2010 | **Total** | Completions design and operations |
-| 2001 – 2005 | **ENI / Schlumberger** | Early career, Italy / Venezuela |
+| 2008 – 2010 | **Total** | Completions design and operations |
+| 2001 – 2008 | **ENI / Schlumberger** | Early career, Venezuela / U.A.E. / Oman / Italy / Nigeria / Egypt  |
+
+: {tbl-colwidths="[20,30,50]"}
 
 A full chronological CV is available in the [CV section](cv.qmd).
 
