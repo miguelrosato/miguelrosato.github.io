@@ -57,3 +57,20 @@ main .subtitle {
   body { color: #000; }
   a { color: #000; text-decoration: none; }
 }
+
+/* Tables with explicit column widths (Quarto's tbl-colwidths) — honor the widths
+   by switching to fixed layout. Without this, Bootstrap's auto-layout can ignore
+   the colgroup widths when content is long. */
+main table:has(colgroup) {
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+
+/* Justify text inside table data cells — useful for long-form values like
+   conference paper titles. Headers (th) stay left-aligned by default. */
+main table td {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
