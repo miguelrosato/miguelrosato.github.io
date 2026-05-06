@@ -1,9 +1,8 @@
 ---
 title: "Publications"
-subtitle: "Society of Petroleum Engineers technical papers."
 ---
 
-## SPE technical papers
+## Technical papers
 
 The following papers were produced from HPHT completion work undertaken with **Petronas Carigali** in Malaysia. They are referenced by their SPE paper number; full text is available through OnePetro and the SPE digital library.
 
