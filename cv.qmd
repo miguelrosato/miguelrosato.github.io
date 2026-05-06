@@ -1,0 +1,58 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Downloadable PDF and full chronological summary."
+---
+
+## Download
+
+📄 **[Download CV (PDF) →](assets/MiguelRosato_CV.pdf)**
+
+## Summary
+
+**Miguel Rosato, CEng FEI**
+Completions & Workover Engineering Lead — Basra Energy Company Limited (BP/CNPC JV), Rumaila Field, Iraq.
+Madrid, Spain. Italian citizen. Trilingual (English, Italian, Spanish).
+
+Twenty-five years of operator-side experience in onshore and offshore (subsea and platform) well completions, workover, DST and well-test design. Specialised in HPHT completions, deepwater subsea completions, and mature-field workover programme management. Currently completing a Professional Certificate in Data Analytics at Imperial College London (May 2026).
+
+## Career chronology
+
+See the [About page](about.qmd#career-to-date) for the operator-by-operator chronology.
+
+## Selected technical experience
+
+- **HPHT completions and DST** — including 14,500 psi / 380°F (Maersk Oil Culzean, UK CNS), HPHT carbonate completions (Petronas Carigali, Malaysia), and deepwater HPHT (Reliance / BP, KG-D6, Bay of Bengal).
+- **Subsea deepwater completions** — open-hole and cased-hole alternate-path gravel-pack sand control, 6th-generation drillship operations.
+- **Workover programme management at scale** — Rumaila Field 2024–2025: +39% throughput at constant rig count, +142,000 bbl/d incremental recovery, ~US$100M CAPEX/OPEX savings, rig-move time reduced 3 → 1 days.
+- **Material selection** — 13Cr, super-13Cr, 25Cr duplex, Inconel grades, sour-service NACE/ISO 15156 compliance.
+- **Tubular stress analysis** — HPHT load cases including thermal cycling, ballooning, helical buckling, fatigue.
+- **Contract experience** — tender evaluation across completions, ESPs, well heads, DST-TCP, coiled tubing, stimulation, well testing, WBCO and slickline services.
+- **Project management** — schedule organisation for design, appraise, contract strategy, procurement, and execution of HPHT well-appraisal campaigns.
+- **HSE** — risk assessment, multidisciplinary well-on-paper exercises, peer review of operations plans, pre-job safety meetings, after-action reviews.
+- **Logging** — open-hole and cased-hole logging, interpretation, and pipeline networking design.
+
+## Operator experience
+
+Schlumberger, ENI, Total, Maersk Oil North Sea UK, BP, Petronas Carigali, Reliance Industries Limited, Basra Energy Company Limited.
+
+## Geographic experience
+
+Venezuela · Indonesia · Egypt · UAE · Oman · Italy · Nigeria · UK · Iraq (Basra) · China · Malaysia · India.
+
+## Education
+
+- **Professional Certificate in Data Analytics** — Imperial College London (May 2026)
+- **MBA** — IE Business School, Madrid (July 2009)
+- **M.Sc. Petroleum Engineering** — Politecnico di Torino, Italy (2004)
+- **B.Eng. Mechanical Engineering** — Universidad Central de Venezuela (June 2001)
+
+## Professional credentials
+
+- **Chartered Petroleum Engineer (CEng)** — UK Engineering Council, Reg. No. 608108 (since 2013)
+- **Fellow of the Energy Institute (FEI)** — Reg. No. 45637 (since 2013)
+- **IWCF Level 4 Supervisor — Combined BOP Stack Surface/Subsea** (valid since February 2026)
+- **SPE Member** since 2004 (No. 3157452)
+
+## Publications
+
+See the [Publications page](publications.qmd) for SPE technical paper references (SPE 186236, 186940, 186948, 191087).

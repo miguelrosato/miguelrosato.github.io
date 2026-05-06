@@ -1,0 +1,66 @@
+# GitHub Actions workflow: render the Quarto site on every push to main and
+# publish the rendered HTML to GitHub Pages.
+#
+# Why this exists: it lets you edit .qmd / .ipynb source files locally, push,
+# and have GitHub Pages always serve the latest rendered HTML — without you
+# having to remember to run `quarto render` and commit the _site/ folder.
+#
+# Setup steps (one-time):
+#   1) In your repo: Settings → Pages → Build and deployment → Source =
+#      "GitHub Actions" (NOT "Deploy from a branch")
+#   2) Commit and push this file. The workflow will run automatically.
+
+name: Render & publish to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:        # also allow manual trigger from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jupyter plotly pandas numpy
+
+      - name: Render Quarto site
+        run: quarto render
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

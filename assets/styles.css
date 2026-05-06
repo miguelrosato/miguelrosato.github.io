@@ -1,0 +1,59 @@
+/* Minor overrides not handled by SCSS variables. Loaded after the SCSS theme. */
+
+/* Make the homepage hero image (profile.jpg) more contained on small screens. */
+.about-image {
+  max-width: 220px;
+  height: auto;
+}
+
+/* Tighten the spacing of the homepage about-block. */
+.quarto-about-trestles .about-entity {
+  padding-top: 0.5rem;
+}
+
+/* Make the navbar slightly thinner */
+.navbar {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* Smooth focus ring for keyboard nav (accessibility) */
+a:focus-visible, button:focus-visible {
+  outline: 2px solid #003E74;
+  outline-offset: 2px;
+}
+
+/* Justified body paragraphs for a more professional column appearance.
+   Scoped to main content only — leaves navbar, footer, tables, callouts
+   and figure captions left-aligned where justification would look wrong.
+   Hyphenation enabled so long words break cleanly and we avoid the "rivers
+   of whitespace" effect that makes naive justification look amateurish. */
+main p,
+#quarto-content p,
+.quarto-about-trestles .about-entity p,
+main li {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Belt-and-suspenders: never justify these even if they live inside main */
+main figcaption,
+main .caption,
+main .callout p,
+main .callout-body p,
+main blockquote,
+main .quarto-title-block p,
+main .subtitle {
+  text-align: left;
+  hyphens: manual;
+}
+
+/* Print styles — useful when someone prints the CV page */
+@media print {
+  .navbar, .quarto-secondary-nav, .page-footer { display: none !important; }
+  body { color: #000; }
+  a { color: #000; text-decoration: none; }
+}

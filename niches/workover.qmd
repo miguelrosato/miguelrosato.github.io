@@ -1,0 +1,43 @@
+---
+title: "Workover Engineering"
+subtitle: "Fleet management, scheduling, NPT reduction — and the operational economics of mature-field intervention at scale."
+---
+
+## Why this matters
+
+In a mature giant field — Rumaila produces approximately 1.4 million barrels per day from thousands of wells — the workover programme is the single largest production-recovery lever the operator has, and it competes directly with new-drill capital for rigs, services, materials and engineering attention. Every 24 hours of unplanned non-productive time inside a workover programme is a measurable production deferment. Every redundant operation in a standard workover sequence is multiplied across hundreds of executions per year.
+
+I have spent the last two years rebuilding how this programme is managed at one of the largest fields in the world.
+
+## Outcomes 2024 – 2025 (Rumaila Field, Basra Energy Company Limited)
+
+| Metric | 2024 | 2025 | Change |
+|---|---:|---:|---:|
+| Workovers delivered | 180 | 250 | **+39%** |
+| Approximate rig count | ~13 | ~13 | flat |
+| Incremental oil recovery attributable | — | — | **+142,000 bbl/d** |
+| CAPEX/OPEX savings (cumulative) | — | — | **~US$100M** |
+| Standard rig-move duration | 3 days | 1 day | **−67%** |
+
+The savings figure was driven primarily by the introduction of a **13Cr OCTG reutilisation policy** — recovering and re-qualifying tubulars from completed workovers for use in subsequent operations rather than procuring new strings each time. Doing this safely, at scale, in a sour-service environment required the design of a full integrity assessment, recertification, and traceability workflow alongside the policy itself.
+
+## What I changed in the management of the programme
+
+- **Field-wide rig-move redesign**. The rig-move sequence — historically 72 hours per move — was decomposed into pre-move, move and post-move workstreams with overlap. New sequence delivers under 24 hours.
+- **Removal of redundant operational steps**. Several legacy steps in the standard workover sequence were retained "because that is how we have always done it." Each was challenged, justified or removed.
+- **Equipment standardisation**. Reduction in the number of distinct equipment configurations the workover fleet had to support, simplifying scheduling, contracting and crew training.
+- **13Cr OCTG reutilisation policy** (described above).
+- **Integrated programme scheduling**. Workover scheduling moved from per-rig planning toward a fleet-level optimisation view — the analytical underpinning of which is now the subject of my [Imperial Capstone](../analytics/capstone.qmd).
+
+## Technical scope I cover
+
+- **Workover programme planning** at fleet scale (10+ rigs, 200+ jobs per year)
+- **NPT root-cause analysis** and operational re-engineering
+- **Tubular reutilisation policy design** — qualification, traceability, sour-service compatibility
+- **ESP intervention strategy** — workover scheduling for ESP-equipped wells, run-life analysis
+- **Stimulation, slickline, coiled tubing, well testing scope of work** definition and tender evaluation
+- **Risk and well-on-paper exercises** for high-complexity workovers
+
+## What I bring to a workover programme problem
+
+I bring the conviction that **the workover programme is a product of its design choices, not a fixed cost of mature-field operation.** The same fleet, the same crews, the same wells can deliver substantially different outcomes depending on how the system is configured and managed. The Rumaila experience is the proof.

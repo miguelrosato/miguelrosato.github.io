@@ -1,0 +1,63 @@
+---
+title: "About"
+subtitle: "Twenty-five years across six tier-one operators, three technical specialisations, and one growing analytics practice."
+---
+
+## Profile
+
+I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading a multinational team of fourteen engineers responsible for the planning and execution of completions for sixteen turn-key drilling rigs and workovers for thirteen workover rigs across the Rumaila Field in southern Iraq.
+
+I work in two deliberate modes. In **expert mode** — completion design, workover strategy, problem diagnosis on the rig floor — twenty-five years of pattern-matching does most of the work in minutes. In **student mode** — currently the Imperial College Data Analytics certificate — I rebuild every module from the ground up: re-typing exercises into VS Code from screenshots, building presentations to consolidate what I have learned, and asking for line-by-line annotation when complex code refuses to click. I bring both modes to my work and to my collaborations.
+
+## Current role
+
+**Completions & Workover Engineering Lead — Basra Energy Company Limited**
+*BP / CNPC joint venture · Rumaila Field, Iraq · January 2024 – present*
+
+Leading a team of fourteen engineers — six expat senior workover and stimulation engineers, two expat senior ESP specialists, six local senior workover engineers, twenty-six local workover engineers — responsible for the planning and preparation of completions for the field's drilling and workover programme.
+
+Selected outcomes 2024–2025:
+
+- **+39% workover throughput**: 180 workovers delivered in 2024, 250 delivered in 2025 with the same approximate rig count.
+- **+142,000 bbl/d incremental oil recovery** attributable to the workover programme expansion.
+- **~US$100M CAPEX/OPEX savings** through introduction of 13Cr OCTG reutilisation policy and operational re-engineering.
+- **Rig-move time reduced from 3 days to 1 day** through redesign of the field-wide workover fleet management approach.
+- **Reduction in non-productive time** through elimination of redundant operations and equipment from the standard workover sequence.
+
+## Career to date
+
+| Period | Operator | Role context |
+|---|---|---|
+| 2024 – present | **Basra Energy Company Limited** (BP/CNPC JV) | Completions & Workover Lead, Rumaila Field, Iraq |
+| 2018 – 2023 | **Reliance Industries Limited** | Deepwater HPHT campaign — KG-D6, Bay of Bengal |
+| 2017 – 2018 | **Petronas Carigali** | HPHT carbonate completions, Malaysia |
+| 2014 – 2017 | **Maersk Oil North Sea UK** | HPHT completions and DST, including the Culzean development (14,500 psi / 380°F) |
+| 2010 – 2014 | **BP** | Subsea and platform completions |
+| 2005 – 2010 | **Total** | Completions design and operations |
+| 2001 – 2005 | **ENI / Schlumberger** | Early career, Italy / Venezuela |
+
+A full chronological CV is available in the [CV section](cv.qmd).
+
+## Education
+
+- **Professional Certificate in Data Analytics** — Imperial College London (May 2026)
+- **MBA** — IE Business School, Madrid (July 2009)
+- **M.Sc. Petroleum Engineering** — Politecnico di Torino, Italy (2004)
+- **B.Eng. Mechanical Engineering** — Universidad Central de Venezuela (June 2001)
+
+## Professional credentials
+
+- **Chartered Petroleum Engineer (CEng)** — UK Engineering Council, Reg. No. 608108 (since 2013)
+- **Fellow of the Energy Institute (FEI)** — Reg. No. 45637 (since 2013)
+- **IWCF Level 4 Supervisor — Combined BOP Stack Surface/Subsea** (valid since February 2026)
+- **SPE Member** since 2004 (Member No. 3157452)
+
+## Languages & nationality
+
+Italian citizen. Trilingual in English (advanced), Italian (mother tongue) and Spanish (mother tongue). Based in Madrid, Spain.
+
+## How I work — for collaborators and clients
+
+I bring **architecture to the conversation**, not a blank brief. I validate every significant analytical or design output against operational ground truth before I trust it. I push back through precise specification rather than argument. I iterate deeply on work that matters and ship fast on everything else.
+
+I am most useful where the technical complexity is genuine — HPHT, deepwater, mature-field workover at scale, M&A technical due diligence — and where the answer needs to survive contact with both a rig floor and a boardroom.

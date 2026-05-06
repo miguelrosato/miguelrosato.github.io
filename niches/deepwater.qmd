@@ -1,0 +1,34 @@
+---
+title: "Deepwater Subsea Completions"
+subtitle: "Open-hole and cased-hole alternate-path gravel-pack sand control from 6th-generation drillships."
+---
+
+## Why this matters
+
+Deepwater completion design is a discipline of unforgiving margins. The rig is among the most expensive assets in the upstream industry; the riser system is finite in displacement and tension; the operational window for sand control execution is measured in single-digit hours. A poorly thought-through lower completion design does not just fail — it sterilises tens of millions of dollars of well investment.
+
+I have spent extended periods inside this regime, including a deepwater HPHT campaign in approximately 2,000 m water depth.
+
+## Reference projects
+
+### KG-D6 Deepwater HPHT — Reliance Industries Limited / BP, Bay of Bengal
+
+Subsea HPHT completion programme in deepwater. Responsibilities spanned campaign-level design integrity for the upper and lower completion architecture, including:
+
+- Open-hole and cased-hole **alternate-path gravel-pack** sand control design;
+- Subsea tree and tubing-hanger interface specifications;
+- Riser-system load case verification through the completion run;
+- Contractor evaluation across completions, sand-control screens, and downhole gauge providers;
+- Field supervision from a 6th-generation class drillship.
+
+## Technical scope I cover
+
+- **Lower completion sand control** — open-hole gravel-pack (OHGP), cased-hole gravel-pack (CHGP), alternate-path technology for long horizontal sections where conventional gravel placement coverage is uncertain.
+- **Upper completion architecture** — subsea tubing hangers, hydraulic disconnect philosophy, downhole safety valve selection for deepwater, downhole gauge architecture (single-bore vs concentric).
+- **Riser system integration** — tension and weight budget through the completion run, motion compensation considerations, weather-window planning.
+- **Subsea tree and christmas tree interfaces** — horizontal vs vertical tree selection, tubing-hanger orientation requirements, intervention philosophy implications.
+- **6th-generation drillship operations** — dynamic positioning operational envelopes, lay-down and pick-up sequencing for long completion strings, simultaneous operations management.
+
+## What I bring to a deepwater completion problem
+
+I bring **integrated operational realism** — completion design that has been built backwards from the rig schedule, the available downtime, the contractor capabilities, and the failure modes that show up six months later. The value of a deepwater completion is realised over a decade of production; the design has to survive every minute of that decade with intervention options preserved.

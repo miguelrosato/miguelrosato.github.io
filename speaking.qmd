@@ -1,0 +1,30 @@
+---
+title: "Speaking & Training"
+subtitle: "Conference presentations, technical training, and the SPE Distinguished Lecturer track."
+---
+
+## Delivered
+
+### HPHT Completions — SPE Kuala Lumpur, 2018
+A short course on HPHT completion design, drawing on the Petronas Carigali HPHT carbonate programme and the Maersk Oil Culzean (UK Central North Sea) experience. Covered design philosophy, material selection, tubular stress analysis under HPHT load cases, DST design, and risk-management approaches for HPHT operations.
+
+## In preparation — SPE Distinguished Lecturer Programme 2027–28
+
+I am preparing an application to the **SPE Distinguished Lecturer Programme** for the 2027–28 cycle on the topic:
+
+> **"From rig floor to optimisation model: applying mixed-integer programming and survival analysis to mature-field workover programmes."**
+
+Outline lectures:
+
+1.  **The economics of mature-field workover programmes** — why this is the largest production-recovery lever the operator has, and why it has historically been under-instrumented.
+2.  **Workover fleet optimisation under non-productive-time uncertainty** — the MILP formulation from my Imperial Capstone Section 11, in operational rather than mathematical language.
+3.  **Predicting ESP failures** — survival analysis applied to electric submersible pump run-life data, and the operational re-architecture that follows from a useful prediction.
+4.  **Building a wells engineering organisation that uses analytics** — the cultural and organisational changes that turn good models into operational decisions, drawing on the Rumaila experience (2024–2025).
+
+## Available for
+
+- **Industry conferences and operator technical sessions** on HPHT completions, deepwater completions, mature-field workover management, and the application of analytics to wells engineering operations.
+- **Technical training and short courses** on HPHT completion design, workover programme management, and the analytical methods documented in the [Data Analytics](analytics/index.qmd) section.
+- **Guest lectures** at petroleum engineering programmes — specifically on the practitioner-side application of formal optimisation methods to wells operations.
+
+To enquire, please [contact me](mailto:miguel.rosato@me.com).

@@ -1,0 +1,33 @@
+# Quarto build artefacts
+/.quarto/
+/_site/
+*.qmd.html
+*_files/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local secrets — never commit
+.env
+*.token
+*.pem
+
+# Personal — keep local
+draft/
+private/
+
+**/*.quarto_ipynb

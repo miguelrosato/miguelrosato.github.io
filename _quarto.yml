@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Miguel Rosato"
+  description: "Completions & Workover Engineering Lead — bridging 25 years of HPHT, deepwater and workover field operations with applied data analytics."
+  site-url: "https://miguelrosato.github.io"
+  repo-url: "https://github.com/miguelrosato/miguelrosato.github.io"
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+
+  navbar:
+    background: "#003E74"
+    foreground: "#FFFFFF"
+    pinned: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Technical Niches
+        menu:
+          - href: niches/hpht.qmd
+            text: HPHT Completions & Well Testing
+          - href: niches/deepwater.qmd
+            text: Deepwater Subsea Completions
+          - href: niches/workover.qmd
+            text: Workover Engineering
+      - text: Data Analytics
+        menu:
+          - href: analytics/index.qmd
+            text: Overview
+          - href: analytics/capstone.qmd
+            text: "Featured: Imperial Capstone"
+      - href: publications.qmd
+        text: Publications
+      - href: speaking.qmd
+        text: Speaking & Training
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/miguel-rosato"
+        aria-label: LinkedIn
+      - icon: github
+        href: "https://github.com/miguelrosato"
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:miguel.rosato@me.com"
+        aria-label: Email
+
+  page-footer:
+    background: "#F3F4F6"
+    left: |
+      © 2026 Miguel Rosato, CEng FEI · Madrid, Spain
+    right: |
+      Built with [Quarto](https://quarto.org).
+      Hosted on [GitHub Pages](https://pages.github.com).
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/styles.scss]
+    css: assets/styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    smooth-scroll: true
+    fontsize: 1.0em
+    linkcolor: "#003E74"
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    citations-hover: true
+    footnotes-hover: true
+
+execute:
+  freeze: auto       # only re-render when source changes — keeps CI fast
+  echo: false        # hide code by default; show on case-study pages explicitly
+  warning: false
+  message: false

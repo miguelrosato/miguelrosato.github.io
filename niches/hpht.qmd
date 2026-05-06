@@ -1,0 +1,36 @@
+---
+title: "HPHT Completions & Well Testing"
+subtitle: "High-pressure high-temperature completion design and DST execution — carbonate and deepwater."
+---
+
+## Why this matters
+
+High-pressure high-temperature wells are not "ordinary completions, but harder." They are an entirely different design and operational regime. Above approximately 10,000 psi shut-in surface pressure and 300°F bottom-hole temperature, equipment selection, material compatibility, well control margins, and operational safety windows tighten in ways that compound — small errors that would be tolerable in a conventional well become catastrophic in HPHT.
+
+I have spent a substantial portion of my twenty-five years inside this regime, including some of the most demanding wells delivered globally in the last decade.
+
+## Reference projects
+
+### Culzean HPHT — Maersk Oil, UK Central North Sea
+
+A 14,500 psi shut-in surface pressure / 380°F bottom-hole temperature DST campaign. At the time of execution, one of the most demanding HPHT well-test programmes in the North Sea. Responsibilities spanned DST design, tubular stress analysis, material selection, contractor evaluation, and on-site supervision through the test sequence.
+
+### Petronas Carigali — HPHT carbonates, Malaysia
+
+HPHT carbonate reservoir completion design with specific attention to acid stimulation compatibility, sand-control alternatives in carbonate matrix, and long-term tubing material selection under sour-service conditions. Resulted in four SPE technical papers (see [Publications](../publications.qmd)).
+
+### KG-D6 — Reliance Industries / BP, Bay of Bengal
+
+Deepwater HPHT campaign in approximately 2,000 m water depth, executed from 6th-generation drillships. Design responsibility across upper and lower completion architecture, including alternate-path open-hole gravel-pack sand control in the lower completion. (Cross-reference: [Deepwater Subsea](deepwater.qmd).)
+
+## Technical scope I cover
+
+- **Completion architecture**: tubular sizing through nodal/PROSPER analysis, packer and accessory selection, intelligent completions where the value case supports them.
+- **Tubular stress analysis**: HPHT-specific load cases including thermal cycling, ballooning, helical buckling, and the ALARP boundaries for axial fatigue under cyclic operations.
+- **Material selection**: 13Cr, super-13Cr, 25Cr duplex, Inconel 718 / 825 / 925, NACE / ISO 15156 compliance for sour-service conditions.
+- **DST and well-test design**: tubing-conveyed perforating, downhole shut-in valves, surface read-out gauges, separator-train and burner sizing, surge-vessel design.
+- **Risk and well-on-paper exercises**: multidisciplinary HPHT well-on-paper sessions, peer review of operations plans, pre-job safety meetings, after-action reviews.
+
+## What I bring to an HPHT design problem
+
+I bring an **operations-aware design philosophy**: every clever design decision has to survive eighteen months later when the well is being intervened on by a rig crew with a different operator's procedures. I have learned this the hard way on more than one well. The result is designs that are conservative where conservatism is cheap, aggressive where the value case justifies it, and instrumented enough that the next engineer to touch the well has the information they need.
