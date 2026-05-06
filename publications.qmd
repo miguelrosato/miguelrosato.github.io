@@ -13,8 +13,8 @@ The following papers were produced from HPHT completion work undertaken with **P
 | **SPE 186948-MS** | 2017 | Extreme Underbalanced HPHT Coiled Tubing Conveyed Perforating: KN-Ultra Deep Field Study |
 | **SPE 186940-MS** | 2017 | Innovative Completion Strategy Overcomes Operational Challenges in Total Losses Conditions. HPHT Field |
 | **SPE 191087-MS** | 2017 | Innovative Solution for High Temperature High Gas Rate Carbonate Well |
-| **SPE 28557-MS**  | 2018 | Pushing Operational Limits in Challenging Perforating Environments |
-| **SPE 28317-MS**  | 2018 | First Successful Deployment of 17-Chrome OCTG CRA Corrosion Resistant Alloy Tubular as Production String in the World  |
+| **OTC 28557-MS**  | 2018 | Pushing Operational Limits in Challenging Perforating Environments |
+| **OTC 28317-MS**  | 2018 | First Successful Deployment of 17-Chrome OCTG CRA Corrosion Resistant Alloy Tubular as Production String in the World  |
 
 ::: {.callout-note appearance="simple"}
 **Verification**: each paper is searchable directly on [OnePetro](https://onepetro.org/) by its SPE number. If you would like the formal citation block (full author list, DOI, conference proceedings reference), please [contact me](mailto:miguel.rosato@me.com) and I will share the BibTeX entries.
