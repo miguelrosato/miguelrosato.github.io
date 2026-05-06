@@ -5,7 +5,7 @@ project:
 website:
   title: "Miguel Rosato"
   description: "Completions & Workover Engineering Lead — bridging 25 years of HPHT, deepwater and workover field operations with applied data analytics."
-  site-url: "https://miguelrosato.github.io"
+  site-url: "https://mattey.energy"
   repo-url: "https://github.com/miguelrosato/miguelrosato.github.io"
   favicon: assets/favicon.svg
   open-graph: true

@@ -20,7 +20,7 @@ about:
       href: mailto:miguel.rosato@me.com
     - icon: file-earmark-pdf
       text: CV (PDF)
-      href: https://miguelrosato.github.io/assets/MiguelRosato_CV.pdf
+      href: https://mattey.energy/assets/MiguelRosato_CV.pdf
 ---
 
 ## About me
