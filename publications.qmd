@@ -5,26 +5,20 @@ subtitle: "Society of Petroleum Engineers technical papers."
 
 ## SPE technical papers
 
-The following papers were produced from HPHT carbonate completion work undertaken with **Petronas Carigali** in Malaysia. They are referenced by their SPE paper number; full text is available through OnePetro and the SPE digital library.
+The following papers were produced from HPHT completion work undertaken with **Petronas Carigali** in Malaysia. They are referenced by their SPE paper number; full text is available through OnePetro and the SPE digital library.
 
 | SPE No. | Year | Topic |
 |---|---|---|
-| **SPE 186236** | 2017 | HPHT carbonate completions — design considerations |
-| **SPE 186940** | 2017 | HPHT carbonate completions — material selection and operational outcomes |
-| **SPE 186948** | 2017 | HPHT carbonate completions — sand-control alternatives in carbonate matrix |
-| **SPE 191087** | 2018 | HPHT carbonate completions — programme retrospective |
+| **SPE 186236-MS** | 2017 | Cutting Edge Completion Design for KNUUD: Pioneering HPHT Field Development in Malaysia |
+| **SPE 186948-MS** | 2017 | Extreme Underbalanced HPHT Coiled Tubing Conveyed Perforating: KN-Ultra Deep Field Study |
+| **SPE 186940-MS** | 2017 | Innovative Completion Strategy Overcomes Operational Challenges in Total Losses Conditions. HPHT Field |
+| **SPE 191087-MS** | 2017 | Innovative Solution for High Temperature High Gas Rate Carbonate Well |
+| **SPE 28557-MS**  | 2018 | Pushing Operational Limits in Challenging Perforating Environments |
+| **SPE 28317-MS**  | 2018 | First Successful Deployment of 17-Chrome OCTG CRA Corrosion Resistant Alloy Tubular as Production String in the World  |
 
 ::: {.callout-note appearance="simple"}
 **Verification**: each paper is searchable directly on [OnePetro](https://onepetro.org/) by its SPE number. If you would like the formal citation block (full author list, DOI, conference proceedings reference), please [contact me](mailto:miguel.rosato@me.com) and I will share the BibTeX entries.
 :::
-
-## In preparation
-
-I am preparing two further pieces for publication:
-
-1.  **Workover programme scaling at a mature giant field** — a structured retrospective on the operational and management changes that delivered the +39% workover throughput at constant rig count (2024 → 2025), drafted for SPE conference submission. Anonymised where required.
-
-2.  **Mixed-integer linear programming for workover fleet optimisation under NPT uncertainty** — a methodology paper based on Section 11 of the Imperial College Capstone, drafted for SPE / SPE Reservoir Evaluation & Engineering submission.
 
 ## SPE membership
 
