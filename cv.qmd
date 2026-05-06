@@ -55,4 +55,4 @@ Venezuela · Indonesia · Egypt · UAE · Oman · Italy · Nigeria · UK · Iraq
 
 ## Publications
 
-See the [Publications page](publications.qmd) for SPE technical paper references (SPE 186236, 186940, 186948, 191087).
+See the [Publications page](publications.qmd) for technical paper references (SPE 186236-MS, 186948-MS, 186940-MS, 191087-MS; OTC 28557-MS, 28317-MS).
