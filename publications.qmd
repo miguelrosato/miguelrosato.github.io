@@ -4,9 +4,9 @@ title: "Publications"
 
 ## Technical papers
 
-The following papers were produced from HPHT completion work undertaken with **Petronas Carigali** in Malaysia. They are referenced by their SPE paper number; full text is available through OnePetro and the SPE digital library.
+The following papers were produced from HPHT completion work undertaken with **Petronas Carigali** in Malaysia. They are referenced by their technical conference paper number; full text is available through OnePetro and the SPE digital library.
 
-| SPE No. | Year | Topic |
+| Paper No. | Year | Topic |
 |---|---|---|
 | **SPE 186236-MS** | 2017 | Cutting Edge Completion Design for KNUUD: Pioneering HPHT Field Development in Malaysia |
 | **SPE 186948-MS** | 2017 | Extreme Underbalanced HPHT Coiled Tubing Conveyed Perforating: KN-Ultra Deep Field Study |
@@ -15,7 +15,10 @@ The following papers were produced from HPHT completion work undertaken with **P
 | **OTC 28557-MS**  | 2018 | Pushing Operational Limits in Challenging Perforating Environments |
 | **OTC 28317-MS**  | 2018 | First Successful Deployment of 17-Chrome OCTG CRA Corrosion Resistant Alloy Tubular as Production String in the World  |
 
+: {tbl-colwidths="[20,10,70]"}
+
 ::: {.callout-note appearance="simple"}
+
 **Verification**: each paper is searchable directly on [OnePetro](https://onepetro.org/) by its SPE number. If you would like the formal citation block (full author list, DOI, conference proceedings reference), please [contact me](mailto:miguel.rosato@me.com) and I will share the BibTeX entries.
 :::
 
