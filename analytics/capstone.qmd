@@ -1,93 +1,14 @@
 ---
-title: "Workover Fleet Optimisation under NPT Uncertainty"
-subtitle: "Imperial College Capstone — applied data analytics on a six-year mature-field workover dataset, ending in a mixed-integer linear programme that informs a real management decision."
-date: 2026-05-01
-date-format: "MMMM YYYY"
+title: "This page has been retired"
+listing: false
+toc: false
+sidebar: false
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="3; url=/services/">
 ---
 
-## The business problem
-
-A mature giant field operating a workover fleet of approximately thirteen rigs against an annual demand of 200+ workovers across four operational categories — routine, enhanced, complex, and ESP-replacement — faces a recurring resource-allocation question:
-
-> *Given uncertain non-productive time (NPT) across the existing rig fleet, what is the optimal allocation of workovers to rigs, and is the operator better served by procuring a dedicated heavy-duty rig for complex interventions?*
-
-This is not a hypothetical. It is the kind of management decision that a Wells Manager or Asset Manager is required to put a defensible recommendation behind on a quarterly basis. The Imperial Capstone is my application of formal optimisation methods to that recurring decision.
-
-## Pipeline
-
-The full notebook covers fourteen sections:
-
-1.  Business problem statement and analytical framing
-2.  Dataset description and provenance
-3.  Exploratory data analysis
-4.  Data quality assessment and treatment
-5.  Feature engineering (well age, ESP indicator, previous workover count, month, formation indicators)
-6.  Supervised learning baseline — Decision Tree
-7.  Random Forest with hyperparameter tuning and learning-curve diagnostics
-8.  XGBoost
-9.  LightGBM
-10.  Unsupervised K-Means clustering with PCA visualisation
-11.  **Mixed-integer linear programme — fleet-level workover allocation**
-12.  ESP failure predictive analysis (in progress — see the [analytics overview](index.qmd))
-13.  Conclusions
-14.  Appendices
-
-The interactive figure below summarises the outputs of **Section 11**.
-
-## Interactive: Section 11 MILP scenario explorer
-
-Two panels. The left panel shows the headline year-on-year scaling story (2024 → 2025) decomposed by workover category. The right panel lets you toggle through the five NPT scenarios from the Section 11 mixed-integer programme — the model recommends a dedicated heavy-duty rig because complex-workover delivery degrades fastest as fleet NPT rises, and the dedicated rig recovers complex throughput across all scenarios.
-
-::: {.column-screen-inset}
-```{=html}
-<iframe src="../assets/interactive_wo_milp.html"
-        title="Section 11 MILP scenario explorer"
-        style="width:100%; height:560px; border:none; border-radius:8px;"
-        loading="lazy"></iframe>
-```
-:::
-
-::: {.callout-note appearance="simple"}
-**Note on data**. Headline numbers (180 → 250 workovers, +142,000 bbl/d, ~US$100M savings, rig-move 3 → 1 day) are part of the publicly disclosed operational record. Per-scenario MILP outputs shown here are illustrative of the operational pattern validated in the Capstone — the underlying confidential employer dataset is not embedded or linkable from this page. The methodology, MILP formulation, and feature-engineering approach are my own IP.
-:::
-
-## What the model actually does
-
-### Decision variables
-
-For each workover category $c \in \{ \text{routine}, \text{enhanced}, \text{complex}, \text{ESP} \}$ and each rig $r \in \mathcal{R}$ in the fleet, the model decides $x_{c,r} \in \mathbb{Z}_{\geq 0}$ — the integer number of workovers of category $c$ assigned to rig $r$ over the planning horizon.
-
-### Objective
-
-Maximise total expected oil-recovery uplift across the assigned workover plan, subject to fleet-wide rig-day capacity, demand satisfaction, rig–category compatibility, and per-category minimum delivery floors that keep the routine programme honest.
-
-### Constraints
-
-- **Rig-day capacity**: the total expected duration of workovers assigned to rig $r$ — adjusted by that rig's expected NPT — cannot exceed its available rig-days in the planning horizon.
-- **Category demand satisfaction**: the field-wide demand for each workover category must be met within ±10%.
-- **Rig–category compatibility**: not every rig can execute every category (the COMPLEX category has the most restrictive eligibility set — this is what creates the case for a dedicated heavy-duty rig).
-- **Minimum delivery floors**: routine workovers cannot drop below the production-integrity threshold even if their per-job uplift is the lowest in the portfolio.
-
-### Five NPT scenarios
-
-The model is solved five times — at baseline expected NPT, +10%, +20%, +30% and +40% — to test how the optimal allocation responds under deteriorating fleet performance. The dedicated-heavy-duty-rig recommendation holds across all five scenarios.
-
-## What the model recommends
-
-The headline recommendation: **procure a dedicated heavy-duty workover rig with the operational envelope to execute complex interventions**. The economic case rests on:
-
-1.  Complex workovers carry the highest per-job recovery uplift, so under-delivery against the complex demand floor is the most expensive failure mode.
-2.  The existing fleet is structurally constrained on complex-workover capacity even at baseline NPT — and degrades fastest under NPT stress.
-3.  A dedicated heavy-duty rig recovers complex throughput in all five tested NPT scenarios, with sufficient slack to take on enhanced workovers in the lower-NPT scenarios.
-
-## What I learned
-
-Three things, named explicitly:
-
-- **An MILP is only as honest as its constraints.** The model became useful only after I rewrote three of the original constraints to reflect operational realities I knew from twenty-five years on the rig floor — limits that the dataset alone would not have surfaced.
-- **The unsupervised clustering (Section 10) was diagnostic, not predictive.** It confirmed the natural workover taxonomy already recognised by the operations team — which is itself a valuable cross-check on the supervised-learning categorisation in Sections 7–9.
-- **The dual-mode discipline matters.** I worked Section 11 in expert mode (the answer was operationally obvious to me before the model ran) and Sections 6–10 in student mode (the methods were genuinely new). Distinguishing which sections needed which mode was, in itself, the most useful thing the certificate is teaching me.
-
-## Status
-
-**In progress**. Sections 1–11 complete and approved. Section 12 (ESP failure predictive analysis) under construction. Sections 13–14 (conclusions, appendices) will be updated once Section 12 lands. Final submission: **May 2026**.
+This page has been retired. Please visit [Mattey Energy services](/services/) or the [home page](/).

@@ -19,7 +19,7 @@ The following papers were produced from HPHT completion work undertaken with **P
 
 ::: {.callout-note appearance="simple"}
 
-**Verification**: each paper is searchable directly on [OnePetro](https://onepetro.org/) by its SPE number. If you would like the formal citation block (full author list, DOI, conference proceedings reference), please [contact me](mailto:miguel.rosato@me.com) and I will share the BibTeX entries.
+**Verification**: each paper is searchable directly on [OnePetro](https://onepetro.org/) by its SPE number. If you would like the formal citation block (full author list, DOI, conference proceedings reference), please [contact me](mailto:miguel@mattey.energy) and I will share the BibTeX entries.
 :::
 
 ## SPE membership

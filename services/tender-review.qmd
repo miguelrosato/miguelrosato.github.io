@@ -1,0 +1,88 @@
+---
+title: "Tender Response Review"
+subtitle: "Independent buyer-side or seller-side review of upstream tender documents — ITTs, bid submissions, equipment specs, vendor evaluations."
+date: 2026-05-23
+date-format: "MMMM YYYY"
+categories: [Tendering, Procurement, Contracts]
+---
+
+## The problem you have
+
+**If you are the operator (buyer side):** the ITT is out, the bids are in,
+your evaluation team is split, and you have 72 hours to sign off the
+technical recommendation. You need an outside pair of eyes on the
+technical evaluation — specifically on the completions, intervention,
+or DST scope of the contract.
+
+**If you are the service company (seller side):** you have a high-value
+ITT in front of you, the bid is due in 5–10 days, and your completions
+team is thin. You need a senior completions/workover authority to read
+the technical sections, flag the gaps, sharpen the win themes, and stress-test
+the cost narrative before submission.
+
+## What you get
+
+A **3,250-pound fixed-price tender review** — buyer-side or
+seller-side — with the following deliverable:
+
+- 5–8 page review memo organised by tender section
+- Prioritised technical gap list (most material first)
+- Win-theme strengthening recommendations (seller-side) or
+  evaluation-criteria stress-test (buyer-side)
+- 60-minute readout call with the proposal / evaluation team
+
+**Turnaround: 5 working days.**
+
+**Price: £3,250 fixed.**
+
+## What this is not
+
+- Not a commercial bid review. Pricing strategy is not my scope.
+- Not a procurement-process audit. I review the technical content of
+  one specific tender, not your wider procurement function.
+- Not a contract drafting service. I am not a lawyer.
+- Not a substitute for your internal commercial team. The technical
+  opinion enters their decision; I do not make the decision for them.
+
+## Process
+
+1. **30-min discovery call** under NDA.
+2. **Document handover.** Typical scope: ITT or RFP, technical
+   submissions / bids, equipment specifications, prior performance data,
+   evaluation rubric (buyer side) or competitor intelligence (seller
+   side, anonymised).
+3. **3 working days of review.** Working notes shared with you on day 2
+   so you can steer the focus.
+4. **Memo + 60-minute readout call** delivered by day 5.
+
+## Frequently asked
+
+**Which tender scopes can you review?**
+Completions, DST, well testing, coiled tubing, slickline, wireline,
+sand control, OCTG procurement, well intervention services, ESP supply,
+wellhead and tree procurement. HPHT and deepwater scopes are my
+strongest specialisation.
+
+**Can you sign a parallel NDA with the vendor / operator I am bidding
+against?**
+No. One side per tender — buyer or seller, not both. The conflict-of-interest
+firewall is absolute.
+
+**How do you handle conflict with your current employer?**
+I will not review any tender involving Basra Energy Company Limited,
+BP, CNPC, or any active vendor relationship with BECL. Disclosed on the
+discovery call.
+
+**Can you turn this around faster than 5 days?**
+Sometimes. The 5-day standard reflects the time needed to give the work
+proper attention. I will agree to 72 hours under exceptional
+circumstances at a +30% rush rate.
+
+**What happens if I cancel mid-review?**
+50% refund if cancelled before the review starts; 0% refund after the
+working notes are delivered on day 2.
+
+## Book a discovery call
+
+[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
+[Email me directly →](mailto:miguel@mattey.energy)

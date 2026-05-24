@@ -1,0 +1,14 @@
+---
+title: "This page has moved"
+listing: false
+toc: false
+sidebar: false
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="3; url=/lab/">
+---
+
+This page has moved. Please visit **[The Lab](/lab/)** for the methodology reference index.

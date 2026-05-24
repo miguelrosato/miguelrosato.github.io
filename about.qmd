@@ -5,7 +5,7 @@ subtitle: "Twenty-five years across six tier-one operators, three technical spec
 
 ## Profile
 
-I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading a multinational team of fourteen engineers responsible for the planning and execution of completions for sixteen turn-key drilling rigs and workovers for thirteen workover rigs across the Rumaila Field in southern Iraq.
+I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading a 19-position completions and workover engineering function responsible for the planning and execution of completions for **six drilling rigs** and workovers for **thirteen workover rigs** across the Rumaila Field in southern Iraq.
 
 I work in two deliberate modes. In **expert mode** — completion design, workover strategy, problem diagnosis on the rig floor — twenty-five years of pattern-matching does most of the work in minutes. In **student mode** — currently the Imperial College Data Analytics certificate — I rebuild every module from the ground up: re-typing exercises into VS Code from screenshots, building presentations to consolidate what I have learned, and asking for line-by-line annotation when complex code refuses to click. I bring both modes to my work and to my collaborations.
 
@@ -16,27 +16,34 @@ I work in two deliberate modes. In **expert mode** — completion design, workov
 
 •	Lead the 19-position completions and workover engineering function (3 expatriate senior workover/stimulation engineers, 3 local senior workover engineers, 13 local workover engineers — planning desk), responsible for the planning, design and preparation of all field completion and workover programmes.
 
-Selected outcomes 2024–2025:
+Selected programme outcomes 2024–2025 (qualitative summary):
 
-- **+39% workover throughput**: 180 workovers delivered in 2024, 250 delivered in 2025 with the same approximate rig count.
-- **+142,000 bbl/d incremental oil recovery** attributable to the workover programme expansion.
-- **~US$100M CAPEX/OPEX savings** through introduction of 13Cr OCTG reutilisation policy and operational re-engineering.
-- **Rig-move time reduced from 3 days to 1 day** through redesign of the field-wide workover fleet management approach.
+- **Material year-on-year workover throughput uplift**, delivered with the same rig count.
+- **Substantial incremental oil-recovery contribution** attributable to the workover programme expansion.
+- **Significant CAPEX/OPEX savings** through introduction of a 13Cr OCTG reutilisation policy and operational re-engineering.
+- **Substantial reduction in standard rig-move duration** through redesign of the field-wide workover fleet management approach.
 - **Reduction in non-productive time** through elimination of redundant operations and equipment from the standard workover sequence.
+
+::: {.callout-note appearance="simple"}
+Specific operational metrics are available under non-disclosure for prospective engagements where commercially appropriate. Please [contact me](mailto:miguel@mattey.energy) to discuss.
+:::
 
 ## Career to date
 
 | Period | Operator | Role context |
 |---|---|---|
-| 2024 – present | **Basra Energy Company Ltd** (BP/CNPC JV) | Completions & Workover Lead, Rumaila Field, Iraq |
-| 2018 – 2023 | **Reliance Industries Limited** | Deepwater HPHT campaign — KG-D6, Bay of Bengal |
-| 2017 – 2018 | **Petronas Carigali** | HPHT carbonate completions, Malaysia |
-| 2014 – 2017 | **Maersk Oil North Sea UK** | HPHT completions and DST, including the Culzean development (14,500 psi / 380°F) |
-| 2010 – 2014 | **BP** | Subsea and platform completions |
-| 2008 – 2010 | **Total** | Completions design and operations |
-| 2001 – 2008 | **ENI / Schlumberger** | Early career, Venezuela / U.A.E. / Oman / Italy / Nigeria / Egypt  |
+| 2024 – present | **Basra Energy Company Limited** (BP/CNPC JV) | Completions & Workover Engineering Lead — Rumaila Field, Iraq |
+| 2019 – 2024 | **BP** (seconded to Reliance Industries Limited) | Senior Lead Completions Engineer — KG-D6 Deepwater HPHT, Bay of Bengal, India |
+| 2012 – 2019 | **Petronas Carigali** | Subject Matter Expert — Completions, Workover & Wellheads, Kuala Lumpur, Malaysia |
+| 2011 – 2012 | **BP** | Senior HPHT Completion Engineer (Consultant), Sunbury, United Kingdom |
+| 2010 – 2011 | **Maersk Oil North Sea UK** | Senior Completions & Well Testing Engineer — Culzean HPHT DST (14,500 psi / 380°F), Aberdeen |
+| 2008 – 2010 | **Total E&P UK** | Senior Subsea & HPHT Completions Engineer, Aberdeen |
+| 2006 – 2008 | **Eni Group — PETROBEL** | Completions Engineer, East Nile Delta offshore, Cairo, Egypt |
+| 2005 – 2006 | **Eni Group — NAOC** | Drilling & Completion Engineer, Port Harcourt, Nigeria |
+| 2004 – 2005 | **ENI S.p.A.** — Exploration & Production | Drilling & Completion Engineer, San Donato Milanese, Italy |
+| 2002 – 2003 | **Schlumberger Oilfield Services** | Wireline Field Engineer, Indonesia / UAE / Oman |
 
-: {tbl-colwidths="[20,30,50]"}
+: {tbl-colwidths="[18,32,50]"}
 
 A full chronological CV is available in the [CV section](cv.qmd).
 

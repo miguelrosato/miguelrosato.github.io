@@ -1,11 +1,17 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Downloadable PDF and full chronological summary."
+subtitle: "Summary CV. A current full PDF is available on request."
 ---
 
-## Download
+## CV on request
 
-📄 **[Download CV (PDF) →](assets/MiguelRosato_CV.pdf)**
+A current, full-length CV is **available on request** by email at
+[**miguel@mattey.energy**](mailto:miguel@mattey.energy). I will send a
+PDF tailored to the engagement context.
+
+::: {.callout-note appearance="simple"}
+The summary below covers the substantive content of my CV. Specific operational metrics, named-client references, and project-specific figures are shared under non-disclosure where commercially appropriate. Please [email me](mailto:miguel@mattey.energy) to request the full document.
+:::
 
 ## Summary
 
@@ -23,7 +29,7 @@ See the [About page](about.qmd#career-to-date) for the operator-by-operator chro
 
 - **HPHT completions and DST** — including 14,500 psi / 380°F (Maersk Oil Culzean, UK CNS), HPHT carbonate completions (Petronas Carigali, Malaysia), and deepwater HPHT (Reliance / BP, KG-D6, Bay of Bengal).
 - **Subsea deepwater completions** — open-hole and cased-hole alternate-path gravel-pack sand control, 6th-generation drillship operations.
-- **Workover programme management at scale** — Rumaila Field 2024–2025: from 180 to 246 Workovers per year (+37% increase at constant rig count), +142,000 bbl/d incremental recovery, ~US$100M CAPEX/OPEX savings, rig-move time reduced 3 → 1 days.
+- **Workover programme management at scale** — leading the Completions & Workover Engineering function at one of the world's largest mature giant fields (2024 – present); led a programme transformation delivering material year-on-year throughput uplift at constant rig count, substantial incremental oil recovery, significant CAPEX/OPEX savings, and a substantial reduction in standard rig-move duration. *Specific operational metrics available on request, under NDA.*
 - **Material selection** — 13Cr, super-13Cr, first deployment in the world of a completion with 17Cr alloy, 25Cr duplex, Inconel grades, sour-service NACE/ISO 15156 compliance.
 - **Tubular stress analysis** — HPHT load cases including thermal cycling, ballooning, helical buckling, fatigue.
 - **Contract experience** — tender evaluation across completions, ESPs, well heads, DST-TCP, coiled tubing, stimulation, well testing, WBCO and slickline services.

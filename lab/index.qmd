@@ -1,0 +1,58 @@
+---
+title: "The Lab — methodology reference"
+subtitle: "Reference descriptions of the analytical methods I bring to client engagements, with synthetic worked examples."
+listing:
+  contents:
+    - "workover-optimisation-methodology.qmd"
+    - "esp-survival-methodology.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [title, subtitle, categories]
+  sort: false
+  categories: false
+  feed: false
+---
+
+## What this section is
+
+A reference library of the analytical methodologies I bring to client
+engagements through [Mattey Energy services](../services/). Each page
+describes a class of problem, the established methods that address it,
+when those methods are the right answer and when they are not, and a
+synthetic worked example to make the approach concrete.
+
+## What it is not
+
+These pages are **not** case studies derived from any operator's data.
+No operator-specific dataset, operational figure, or named project
+appears anywhere in this section. Every numerical example is
+synthetic and clearly captioned as such.
+
+For the same reason, there is no downloadable dataset on this site.
+Real engagements run against the client's own data, under
+non-disclosure, with all outputs remaining the client's property.
+
+## Why I publish methodology reference pages at all
+
+Three reasons:
+
+1. **Specification before sale.** A buyer-side reader can read these
+   pages and form a defensible view on whether the methodology fits
+   their problem *before* the discovery call. That saves time on both
+   sides.
+2. **Credibility through transparency.** The classical formulations
+   are public-domain techniques (Dantzig 1947, Cox 1972,
+   Kaplan–Meier 1958, Ishwaran et al. 2008). My contribution is
+   fluent application to wells engineering problems — these pages
+   make the application visible.
+3. **Reference for myself.** Each page is also a working artefact I
+   use in engagements to anchor scoping conversations.
+
+## Underlying toolchain
+
+Python first, by deliberate choice — pandas for the dataframe layer,
+scikit-learn for supervised baselines, PuLP with the CBC solver for
+mixed-integer programming, `lifelines` and `scikit-survival` for
+time-to-event modelling, matplotlib for static diagnostics. Visual
+Studio Code with Jupyter integration as the editor. No proprietary
+solver, no proprietary BI tool, no closed-source dependency.

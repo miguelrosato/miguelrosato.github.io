@@ -1,0 +1,67 @@
+---
+title: "Services"
+subtitle: "Productised, fixed-scope wells engineering and analytics advisory. Five offers. Transparent pricing. Predictable turnaround."
+listing:
+  contents:
+    - "programme-review.qmd"
+    - "workover-audit.qmd"
+    - "technical-diligence.qmd"
+    - "tender-review.qmd"
+    - "expert-witness.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [title, subtitle, categories]
+  sort: false
+  categories: false
+  feed: false
+---
+
+## How engagements work
+
+Every engagement on this page is **fixed-scope and fixed-price**. No
+hourly drip; no scope creep; no surprises on the invoice. The starting
+move on any new engagement is a 30-minute discovery call — free, no
+obligation. After that, if there is a fit, I send a one-page proposal
+with deliverable, timeline and price. You decide, sign, and we begin.
+
+::: {.callout-tip appearance="simple"}
+**Not sure which service fits?**
+The fastest path is to [book a 30-minute discovery call](#discovery-call)
+below. I will tell you which offer is right (or that none of them is and
+you need a different specialist — I am not the right answer for every
+problem).
+:::
+
+## What I don't take on
+
+To save us both time:
+
+- Work that conflicts with my current role at Basra Energy Company
+  Limited (BP / CNPC JV). I keep a strict conflict-of-interest framework
+  and will decline anything that touches it.
+- Work that requires me to use any prior-employer proprietary data,
+  contractor performance information, or confidential figures.
+- Generic data-science work outside wells engineering. I am a wells
+  authority who has learned data, not a generalist data scientist.
+- Large open-ended retainers. Every service on this page is sized to
+  deliver something concrete in 5–30 days.
+
+## Discovery call {#discovery-call}
+
+Thirty minutes. I will tell you what I can help with, what I cannot, and
+what a useful next step looks like. No obligation.
+
+::: {.callout-note appearance="simple"}
+📅 **[Book a 30-minute discovery call →](https://cal.com/miguel-rosato/30min)**
+
+Cal.com link — once Cal.com is set up, this resolves to the booking
+page. Until then, [email me directly](mailto:miguel@mattey.energy) and I
+will reply with two or three time slots that work for your timezone.
+:::
+
+## Mattey Energy Ltd
+
+Mattey Energy Ltd is the UK-registered consulting vehicle through which
+this work is delivered. Standard MSA, NDA and conflict-of-interest
+declaration available on request. Professional Indemnity insurance in
+place. Invoicing in GBP, EUR or USD.

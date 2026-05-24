@@ -1,0 +1,97 @@
+---
+title: "Technical Due Diligence Sprint"
+subtitle: "Independent technical opinion on wells engineering exposure for M&A, asset acquisitions, expert-network calls and investment-committee timelines."
+date: 2026-05-23
+date-format: "MMMM YYYY"
+categories: [M&A, Due Diligence, Expert Network]
+---
+
+## The problem you have
+
+You are evaluating an asset, a portfolio, or an investment thesis where
+wells engineering is a material exposure. The data room is open, the IC
+deadline is two weeks out, your internal team has finance and reservoir
+covered — but completions, workovers, intervention liability, well
+integrity history and HSE programme quality need an independent
+technical opinion from someone who has actually built these wells.
+
+I have delivered HPHT and deepwater wells across the North Sea, Bay of
+Bengal and the Mesopotamian Basin for Eni, Total, Maersk Oil, BP,
+Petronas, Reliance and now BECL. I have evaluated tender submissions,
+audited service-company units across China and the Gulf, and conducted
+technical due diligence on multiple operator-side assets.
+
+## What you get
+
+Two engagement formats, depending on what your timeline supports:
+
+| Format | Deliverable | Turnaround | Price |
+|---|---|---|---|
+| **Expert-network call** | 60-minute call (recorded or unrecorded) on a specific technical question | Same day to 48 hours | **$500 – $1,500 / hour** (via GLG, Third Bridge, AlphaSights, Coleman, Guidepoint, Tegus) or direct |
+| **Diligence Sprint** | Data-room review + 8–12 page technical opinion + 60-minute Q&A | 5–10 working days | **£3,500 – £6,500 fixed** |
+
+: {tbl-colwidths="[20,44,18,18]"}
+
+The Diligence Sprint is the higher-value engagement when there is a
+data room to review and a written opinion the IC can read.
+
+## What this is not
+
+- Not a substitute for full reservoir, financial, or environmental DD.
+  My scope is wells, completions, workover programme, and intervention
+  liability.
+- Not a fairness opinion. I provide a technical opinion in written form,
+  not a fairness letter.
+- Not legal expert-witness work — that is a separate offer (see
+  [Expert Witness](expert-witness.html)).
+
+## Process
+
+### Expert-network calls
+
+1. You contact me directly or via your expert-network platform
+   (GLG, Third Bridge, AlphaSights, Coleman, Guidepoint, Tegus — all
+   registered).
+2. We agree the topic on a 10-minute pre-call. I flag any
+   conflict-of-interest immediately.
+3. Call delivered. Compliance is rigorous: no current-employer
+   proprietary information, no unpublished figures, no
+   client-specific confidential details.
+
+### Diligence Sprint
+
+1. **30-min discovery call.** You describe the asset, the IC date, the
+   specific questions.
+2. **NDA + data-room access.** Signed within 24 hours.
+3. **Data-room review** over 3–5 working days.
+4. **Written technical opinion** delivered within 5–10 working days
+   total, followed by a 60-minute Q&A with the investment team.
+
+## Frequently asked
+
+**Which expert-network platforms are you registered with?**
+GLG, Third Bridge, AlphaSights, Coleman, Guidepoint, Tegus.
+I will register with additional networks on request.
+
+**What is your compliance discipline on calls?**
+I do not discuss the current employer (Basra Energy Company Limited),
+its parents (BP and CNPC), or any operational specifics inside the
+Mesopotamian Basin. I do not disclose unpublished figures from any
+prior employer. I do not name vendors or rate them by name. These
+disciplines are non-negotiable.
+
+**Can you provide a list of references?**
+Yes, on request. References from prior employer-side review work are
+available under standard NDA.
+
+**Do you sign client NDAs?**
+Yes. Either your NDA or my standard mutual NDA works.
+
+**What about conflict of interest with the target asset?**
+Discussed on the discovery call. I will decline cleanly if there is a
+conflict — better to lose the engagement than the trust.
+
+## Book a discovery call
+
+[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
+[Email me directly →](mailto:miguel@mattey.energy)

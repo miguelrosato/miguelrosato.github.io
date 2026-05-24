@@ -17,11 +17,16 @@ about:
       href: https://github.com/miguelrosato
     - icon: envelope
       text: Email
-      href: mailto:miguel.rosato@me.com
-    - icon: file-earmark-pdf
-      text: CV (PDF)
-      href: https://mattey.energy/assets/MiguelRosato_CV.pdf
+      href: mailto:miguel@mattey.energy
 ---
+
+::: {.callout-tip appearance="default" icon=false}
+### Hire Mattey Energy
+
+Five fixed-scope, fixed-price wells engineering and analytics services for operators, service companies, PE / diligence teams and law firms. **Completion programme reviews from £950**, technical due diligence from £3,500, expert-network calls at standard platform rates, tender response review at £3,250 fixed, expert-witness work at chartered-engineer rates.
+
+[**Browse services →**](services/) · [Book a 30-min discovery call →](https://cal.com/miguel-rosato/30min) · [Email me →](mailto:miguel@mattey.energy)
+:::
 
 ## About me
 
@@ -29,21 +34,24 @@ I am a **Chartered Petroleum Engineer (CEng, UK Engineering Council)** and **Fel
 
 I am based in **Madrid, Spain**, with Italian citizenship and a global operational footprint across Venezuela, Indonesia, the UAE, Oman, Italy, Nigeria, Egypt, the United Kingdom, China, Malaysia, India and Iraq. I am trilingual in English, Italian and Spanish.
 
-My technical identity sits at three intersections: **HPHT completions and well testing**, **deepwater subsea completions** (including 6th-generation drillship operations and alternate-path gravel-pack sand control) and **workover engineering at scale** — most recently scaling Rumaila's annual workover throughput by approximately 39% with the same rig count.
+My technical identity sits at three intersections: **HPHT completions and well testing**, **deepwater subsea completions** (including 6th-generation drillship operations and alternate-path gravel-pack sand control) and **workover engineering at scale** — leading the Completions & Workover function at one of the world's largest mature giant fields.
 
-In May 2026 I completed **The Professional Certificate in Data Analytics at Imperial College London**, the focus of which has been bringing rigorous quantitative methods — supervised and unsupervised machine learning, mixed-integer linear programming, and survival analysis — into the daily decision-making of a wells engineering organisation. This site is the public surface of that bridge: my technical heritage, my analytics work and where the two meet.
+In May 2026 I completed **The Professional Certificate in Data Analytics at Imperial College London** — adding rigorous quantitative methods (supervised and unsupervised machine learning, mixed-integer linear programming, survival analysis) to my wells engineering toolkit. This site is the public surface of my professional credentials, niche specialisations and the advisory services offered through Mattey Energy Ltd.
 
-## Recent projects
+## Selected experience
 
-- **Imperial College Capstone — Workover Fleet Optimisation** *(May 2026)*. End-to-end analytics on a six-year workover performance dataset, culminating in a mixed-integer linear programming model that recommends a dedicated heavy-duty workover rig for complex interventions. [See the case study →](analytics/capstone.qmd)
-- **ESP Failure Predictive Analysis**. Survival-analysis approach (Cox proportional hazards / random survival forests) to forecast electric submersible pump failures before they happen — enabling proactive scheduling instead of reactive intervention. ESP workovers represent roughly 73% of all jobs on the field.
-- **Rumaila Workover Programme Scaling**. Increased annual workover deliveries from 180 in 2024 to 250 in 2025 with a comparable rig count, contributing approximately 142,000 bbl/d of incremental oil recovery and ~US$100M in CAPEX/OPEX savings via reutilisation of 13Cr OCTG, and other optimisation initiatives.
+- **Workover programme management at scale** — currently leading the Completions & Workover Engineering function at one of the world's largest mature giant fields (2024 – present). Programme transformation delivering material year-on-year throughput uplift at constant rig count, with substantial recovery and CAPEX/OPEX savings outcomes.
+- **Deepwater HPHT campaign — KG-D6** (BP / Reliance Industries, Bay of Bengal). Delivered 24 deepwater wells in up to 2,000 m water depth, with alternate-path open-hole gravel-pack lower completions and 7″ × 5½″ upper completions.
+- **Culzean HPHT DST** (Maersk Oil, North Sea UK). Prepared and supervised DSTs at 14,500 psi reservoir pressure / 380°F (193°C); managed £30M+ programme end-to-end from AFE through offshore execution.
+- **Pan-Malaysia Deepwater Wellhead Standardisation** (Petronas, 2012 – 2019). Technical lead for a standardised deepwater subsea wellhead and casing-schedule contract adopted across five operators; managed Completions portfolio contracts ~US$135M.
+
+For technical papers, see [Publications](publications.qmd).
 
 ## Goals
 
 I am building toward three concurrent positions: **executive operational leadership in upstream wells** (Wells Manager, Operations Manager), **a recognised authority in the application of data analytics to wells engineering**, and an **independent advisory practice** for HPHT design reviews, M&A technical due diligence, and engineering training.
 
-I am preparing an application to the **SPE Distinguished Lecturer Programme** for the near future on the topic of HPHT Completions in different Fiield Environments, and analytics-driven completion and workover programme management.
+I am preparing an application to the **SPE Distinguished Lecturer Programme** for the near future on the topic of HPHT Completions in different Field Environments, and analytics-driven completion and workover programme management.
 
 ## Professional & personal interests
 

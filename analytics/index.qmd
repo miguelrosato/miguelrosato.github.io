@@ -1,45 +1,14 @@
 ---
-title: "Data Analytics"
-subtitle: "The bridge between twenty-five years of operational wells engineering and quantitative methods that survive contact with a rig floor."
+title: "This page has been retired"
+listing: false
+toc: false
+sidebar: false
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta http-equiv="refresh" content="3; url=/services/">
 ---
 
-## My positioning
-
-I am not a data scientist learning wells. I am a wells authority learning data — and the distinction matters.
-
-The most valuable analytical work in upstream is done by people who understand simultaneously what a model is mathematically doing **and** what the operational reality the model is supposed to inform looks like at 03:00 on a rig deck. That is a small intersection. It is the intersection I am positioning myself in.
-
-The Imperial College Data Analytics certificate (May 2026) is the public proof point. The work below is what I have built inside it.
-
-## Featured case study — Imperial Capstone
-
-[**Workover Fleet Optimisation under NPT Uncertainty →**](capstone.qmd)
-
-End-to-end analytics on a six-year workover performance dataset from a major mature giant field. Pipeline includes exploratory analysis, feature engineering, supervised classification of workover outcomes (Random Forest, XGBoost, LightGBM with hyperparameter tuning and learning-curve diagnostics), unsupervised K-Means clustering with PCA, and a mixed-integer linear programming model (PuLP) that recommends a dedicated heavy-duty workover rig for complex interventions across five non-productive-time scenarios.
-
-Includes a live, interactive component you can explore inline.
-
-## In progress — ESP Failure Predictive Analysis
-
-ESP (Electric Submersible Pump) workovers represent approximately 73% of all workovers on the field I am currently working with. The average ESP working life sits around two years. A reliable failure-prediction model would enable proactive scheduling — pulling and replacing pumps on a planned-intervention basis rather than emergency response.
-
-**Approach**: time-to-event modelling using **Cox proportional hazards** and **random survival forests** (`lifelines` and `scikit-survival`), with a binary-classification fallback at 3-, 6- and 12-month windows reusing the existing Random Forest / XGBoost framework.
-
-**Conditioning features**: reservoir formation (Mishrif, Main Pay, Nahr Umr, Dammam, Upper Shale, 4th Pay), last workover date, ESP run-life history (cumulative + average), well age from spud, previous workover count, well function (producer/injector), production rate, geographic position, seasonality.
-
-**Censoring** is handled explicitly — pumps still running at the end of the dataset window contribute to the likelihood as right-censored observations.
-
-The model and supporting case-study page will be published here on completion. Target: **late May 2026**.
-
-## My toolchain
-
-- **Python** as the primary language (pandas, NumPy, scikit-learn, XGBoost, LightGBM, PuLP, lifelines, scikit-survival)
-- **Visualisation**: matplotlib, seaborn, Plotly
-- **Editor**: Visual Studio Code with Jupyter notebook integration
-- **Data storage**: SQLite via SQLAlchemy / pandas where it earns its place; otherwise flat files, by deliberate choice
-- **Mixed-integer optimisation**: PuLP with the CBC solver
-- **Survival analysis**: lifelines (Kaplan–Meier, Cox proportional hazards), scikit-survival (random survival forests)
-
-## Methodology IP statement
-
-The methodologies, model architectures, feature-engineering choices, and analytical frameworks documented on this site are my own intellectual property and are publishable. Where these methods have been developed against confidential employer datasets, only headline outcomes already part of my publicly disclosed professional record are shared here. The underlying datasets are not.
+This page has been retired. Please visit [Mattey Energy services](/services/) or the [home page](/).

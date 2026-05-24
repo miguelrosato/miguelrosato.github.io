@@ -1,0 +1,97 @@
+---
+title: "Workover Programme Audit"
+subtitle: "Structured diagnostic on a workover programme that has plateaued, blown budget, or under-delivered — with an integer-programme model of the fleet capacity."
+date: 2026-05-23
+date-format: "MMMM YYYY"
+categories: [Workover, Fleet optimisation, Mature field]
+---
+
+## The problem you have
+
+Your annual workover programme is running below target. The rigs are
+working — but you are delivering fewer interventions than the year
+before, NPT is creeping up, the standard sequence keeps producing the
+same delays, and your team's diagnosis is *"we need another rig."* You
+are not sure whether that is true, or whether the existing fleet has
+unrealised capacity that mix-rebalancing and operational re-engineering
+can unlock.
+
+This is the kind of question I have spent the last two years rebuilding the
+workover programme around at one of the world's largest mature giant
+fields — delivering material year-on-year throughput uplift at constant
+rig count, with substantial incremental oil-recovery contribution and
+significant CAPEX/OPEX savings.
+
+## What you get
+
+A structured operational diagnostic with three deliverables:
+
+1. **Workover throughput model** — an integer-programme solver
+   (parameter-driven by your fleet size, NPT profile, and category mix)
+   that quantifies the maximum annual delivery your fleet can sustain,
+   and which constraints are actually binding.
+2. **NPT root-cause map** — a categorised analysis of where time is
+   actually being lost (rig moves, equipment, planning, contractor
+   handovers) with a priority-ranked intervention list.
+3. **Programme recommendation memo** — 8–12 pages, written for an Asset
+   Manager / Wells Manager audience. Specific, dated, with named owners
+   and quantified expected uplift.
+
+**Price: £8,500 – £14,500 fixed** depending on fleet size and data
+volume. 30-day turnaround. Reference engagements and methodology
+worked examples available under non-disclosure on request.
+
+## What this is not
+
+- Not a software deliverable. You receive a model and a memo, not a SaaS
+  product. If you want the model embedded in your planning system, that
+  is a separate engagement.
+- Not a contractor-performance review. Confidential vendor data is out
+  of scope.
+- Not a replacement for your internal continuous-improvement function.
+  This is the outside diagnostic that re-anchors the conversation, not
+  the year-long execution.
+
+## Process
+
+1. **30-min discovery call.** You describe the programme, the
+   throughput history, what data is available.
+2. **Data scope agreement.** We agree what gets shared, under what NDA,
+   and in what format. Anonymised dataset preferred; full dataset under
+   NDA also workable.
+3. **Two-week analysis.** I build the model and the NPT analysis,
+   reviewing intermediate findings with your team weekly.
+4. **Read-out.** 2-hour workshop with your Wells / Asset team; written
+   memo follows within 5 working days.
+
+## Frequently asked
+
+**Do you need access to our confidential data?**
+You can either share anonymised data (preferred — same standard I apply
+to my own published case study) or share full data under NDA. Either
+works for the analysis.
+
+**Will you publish anything from our engagement?**
+No. Every engagement is strictly confidential. The client identity,
+dataset, and specific findings remain confidential indefinitely.
+Generic methodology descriptions may be re-used in future work, but
+nothing tied to your engagement, in any form, will be published.
+
+**What if our fleet is mostly drilling rigs, not pure workover rigs?**
+The model handles mixed-mode fleets. I will adapt the constraint
+formulation to your operational reality on the scoping call.
+
+**What if we don't have clean data?**
+Common situation. The first week of the engagement includes data-quality
+remediation as standard. If the data is irrecoverable, I will tell you
+on the discovery call and we will not start.
+
+**Can you do this work for an operator who competes with BECL / BP / CNPC?**
+Conflict-of-interest decision case by case. Operators outside the
+Mesopotamian Basin and outside BP / CNPC JV footprint are typically
+clear.
+
+## Book a discovery call
+
+[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
+[Email me directly →](mailto:miguel@mattey.energy)

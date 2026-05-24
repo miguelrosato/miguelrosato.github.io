@@ -1,0 +1,101 @@
+---
+title: "Expert Witness & Technical Brief"
+subtitle: "Independent technical opinion for law firms, arbitration panels, regulatory bodies, and insurance carriers — wells engineering, HPHT and deepwater specifically."
+date: 2026-05-23
+date-format: "MMMM YYYY"
+categories: [Expert Witness, Dispute, Regulatory]
+---
+
+## The problem you have
+
+You are counsel, an arbitration panel, a regulator, or an insurance
+carrier dealing with a wells-engineering matter. You need a credentialled
+technical expert who can:
+
+- Brief counsel in plain language on what actually happened, what should
+  have happened, and the gap between the two;
+- Produce a written technical opinion that survives cross-examination;
+- Sit in deposition or testimony if required.
+
+The specific subject-matter areas I cover are HPHT completions and DST
+design, deepwater subsea completions (open-hole and cased-hole alternate-path
+gravel-pack sand control), workover programme management, ESP and
+artificial-lift design, OCTG material selection, well integrity, and
+contract / tender disputes in upstream completions.
+
+## Credentials that matter for instructed work
+
+- **Chartered Engineer (CEng)** — UK Engineering Council, Reg. No. 608108
+  (since 2013).
+- **Fellow of the Energy Institute (FEI)** — Reg. No. 45637 (since 2013).
+- **IWCF Level 4 Supervisor — Combined BOP Stack Surface / Subsea**
+  (valid since February 2026).
+- **Six peer-reviewed SPE / OTC papers** on HPHT completion design,
+  underbalanced perforating, high-gas-rate carbonates, and first-deployment
+  17-Chrome OCTG.
+- **25 years operator-side experience** across Schlumberger, Eni, Total,
+  Maersk Oil North Sea UK, BP, Petronas Carigali, Reliance Industries
+  and Basra Energy Company Limited.
+- **Trilingual** (English, Italian, Spanish) — depositions and reports
+  available in any of the three.
+
+## What you get
+
+Three engagement formats:
+
+| Format | Deliverable | Price |
+|---|---|---|
+| **Technical brief (counsel orientation)** | 60–90 minute briefing call + 3–5 page summary memo + Q&A | **£450 – £650 / hour** (typical engagement 4–8 hours) |
+| **Written expert opinion** | Full technical opinion compliant with the rules of the relevant forum (CPR Part 35 in England & Wales; equivalent in other jurisdictions) | **£600 – £800 / hour** + agreed page fee |
+| **Deposition / testimony** | Preparation, deposition, cross-examination, follow-up | **£800 / hour** + travel + per-diem; preparation billed separately |
+
+: {tbl-colwidths="[28,42,30]"}
+
+## What this is not
+
+- Not legal advice. I am a technical expert, not a lawyer.
+- Not work for both sides of the same dispute. One side per matter,
+  absolute.
+- Not work involving Basra Energy Company Limited, BP, CNPC, or any
+  matter inside the Mesopotamian Basin operational footprint.
+
+## Process
+
+1. **30-minute discovery call** under NDA. You describe the matter, the
+   forum, the timeline, the specific technical question.
+2. **Conflict check.** I run a structured COI declaration against my
+   current and prior engagements. Either we proceed cleanly or I decline
+   on the call.
+3. **Engagement letter** (typically your standard form) signed within
+   48 hours.
+4. **Work delivered** to the agreed scope — brief, opinion, or testimony.
+
+## Frequently asked
+
+**Are you accredited under CPR Part 35 (England & Wales)?**
+Yes — my chartered status (CEng UK Engineering Council) and Fellowship
+(FEI) satisfy the technical-expert requirements. I follow the CPR Part 35
+duty to the court / tribunal at all times.
+
+**Can you act on matters outside England & Wales?**
+Yes. I have worked on tender / contract matters in the North Sea (UK),
+West Africa, Bay of Bengal and the Gulf. Specific jurisdictional rules
+discussed on the discovery call.
+
+**What is your typical case profile?**
+Mid-complexity matters where the technical exposure sits between £2M
+and £150M, and the dispute centres on completion design, workover
+execution, well integrity failure, or tender / contract interpretation.
+
+**Do you have professional indemnity insurance for instructed work?**
+Yes. £1M cover via Mattey Energy Ltd. Higher cover available on request
+for larger matters.
+
+**Will you publish anything from the engagement?**
+Never. Expert-witness work is strictly confidential and remains so
+indefinitely.
+
+## Book a discovery call
+
+[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
+[Email me directly →](mailto:miguel@mattey.energy)

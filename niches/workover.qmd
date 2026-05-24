@@ -9,17 +9,20 @@ In a mature giant field — Rumaila produces approximately 1.4 million barrels p
 
 I have spent the last two years rebuilding how this programme is managed at one of the largest fields in the world.
 
-## Outcomes 2024 – 2025 (Rumaila Field, Basra Energy Company Limited)
+## Programme outcomes 2024 – 2025 (qualitative summary)
 
-| Metric | 2024 | 2025 | Change |
-|---|---:|---:|---:|
-| Workovers delivered | 180 | 250 | **+39%** |
-| Approximate rig count | ~13 | ~13 | flat |
-| Incremental oil recovery attributable | — | — | **+142,000 bbl/d** |
-| CAPEX/OPEX savings (cumulative) | — | — | **~US$100M** |
-| Standard rig-move duration | 3 days | 1 day | **−67%** |
+Across the 2024 – 2025 programme transformation at a major mature giant field:
 
-The savings figure was driven primarily by the introduction of a **13Cr OCTG reutilisation policy** — recovering and re-qualifying tubulars from completed workovers for use in subsequent operations rather than procuring new strings each time. Doing this safely, at scale, in a sour-service environment required the design of a full integrity assessment, recertification, and traceability workflow alongside the policy itself.
+- **Material year-on-year workover throughput uplift** delivered with the same rig count.
+- **Substantial incremental oil-recovery contribution** attributable to the workover programme expansion.
+- **Significant CAPEX/OPEX savings** through introduction of a 13Cr OCTG reutilisation policy.
+- **Substantial reduction in standard rig-move duration** through redesign of the field-wide workover fleet management approach.
+
+The savings outcome was driven primarily by the introduction of a **13Cr OCTG reutilisation policy** — recovering and re-qualifying tubulars from completed workovers for use in subsequent operations rather than procuring new strings each time. Doing this safely, at scale, in a sour-service environment required the design of a full integrity assessment, recertification, and traceability workflow alongside the policy itself.
+
+::: {.callout-note appearance="simple"}
+Specific operational metrics are available under non-disclosure for prospective engagements where commercially appropriate. Please [contact me](mailto:miguel@mattey.energy) to discuss.
+:::
 
 ## What I changed in the management of the programme
 
@@ -27,7 +30,7 @@ The savings figure was driven primarily by the introduction of a **13Cr OCTG reu
 - **Removal of redundant operational steps**. Several legacy steps in the standard workover sequence were retained "because that is how we have always done it." Each was challenged, justified or removed.
 - **Equipment standardisation**. Reduction in the number of distinct equipment configurations the workover fleet had to support, simplifying scheduling, contracting and crew training.
 - **13Cr OCTG reutilisation policy** (described above).
-- **Integrated programme scheduling**. Workover scheduling moved from per-rig planning toward a fleet-level optimisation view — the analytical underpinning of which is now the subject of my [Imperial Capstone](../analytics/capstone.qmd).
+- **Integrated programme scheduling**. Workover scheduling moved from per-rig planning toward a fleet-level optimisation view.
 
 ## Technical scope I cover
 

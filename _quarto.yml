@@ -1,6 +1,14 @@
 project:
   type: website
   output-dir: _site
+  # Render list: render all .qmd files anywhere in the project, EXCEPT the
+  # drafts/ folder (working notes, PROJECT_LOG, draft pages). The negation
+  # pattern (`!drafts/**`) is what Quarto actually respects — a positive-only
+  # list without the negation was not excluding drafts/ on this version of
+  # Quarto.
+  render:
+    - "**/*.qmd"
+    - "!drafts/**"
 
 website:
   title: "Miguel Rosato"
@@ -20,6 +28,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: services/index.qmd
+        text: Services
       - href: about.qmd
         text: About
       - text: Technical Niches
@@ -30,12 +40,14 @@ website:
             text: Deepwater Subsea Completions
           - href: niches/workover.qmd
             text: Workover Engineering
-      - text: Data Analytics
+      - text: The Lab
         menu:
-          - href: analytics/index.qmd
+          - href: lab/index.qmd
             text: Overview
-          - href: analytics/capstone.qmd
-            text: "Featured: Imperial Capstone"
+          - href: lab/workover-optimisation-methodology.qmd
+            text: "Workover Fleet Optimisation — Methodology"
+          - href: lab/esp-survival-methodology.qmd
+            text: "ESP Failure Prediction — Methodology"
       - href: publications.qmd
         text: Publications
       - href: speaking.qmd
@@ -50,7 +62,7 @@ website:
         href: "https://github.com/miguelrosato"
         aria-label: GitHub
       - icon: envelope
-        href: "mailto:miguel.rosato@me.com"
+        href: "mailto:miguel@mattey.energy"
         aria-label: Email
 
   page-footer:

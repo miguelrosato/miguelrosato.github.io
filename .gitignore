@@ -1,8 +1,12 @@
 # Quarto build artefacts
 /.quarto/
 /_site/
+/_freeze/
+/site_libs/
 *.qmd.html
 *_files/
+about_files/
+index_files/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
@@ -26,8 +30,21 @@ Thumbs.db
 *.token
 *.pem
 
-# Personal — keep local
+# Private working files — keep local, do NOT publish
+drafts/
 draft/
 private/
 
+# Personal CV PDF — kept locally for emailing on request, never published
+CV_MRosato_2026.pdf
+MiguelRosato_CV.pdf
+
+# Stale rendered HTML at repo root (pre-_site/ era — should not be tracked)
+/about.html
+/cv.html
+/index.html
+/publications.html
+/speaking.html
+
 **/*.quarto_ipynb
+
