@@ -5,7 +5,7 @@ subtitle: "Twenty-five years across six tier-one operators, three technical spec
 
 ## Profile
 
-I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading a 19-position completions and workover engineering function responsible for the planning and execution of completions for **six drilling rigs** and workovers for **thirteen workover rigs** across the Rumaila Field in southern Iraq.
+I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading the completions and workover engineering function at Basra Energy Company Limited — accountable for the planning, design and preparation of **every completion and workover programme** delivered across the company's drilling and workover rig fleet in the Rumaila Field, southern Iraq.
 
 I work in two deliberate modes. In **expert mode** — completion design, workover strategy, problem diagnosis on the rig floor — twenty-five years of pattern-matching does most of the work in minutes. In **student mode** — most recently the Imperial College Data Analytics certificate, completed in May 2026 — I rebuild every module from the ground up: re-typing exercises into VS Code from screenshots, building presentations to consolidate what I have learned, and asking for line-by-line annotation when complex code refuses to click. I bring both modes to my work and to my collaborations.
 
@@ -14,7 +14,9 @@ I work in two deliberate modes. In **expert mode** — completion design, workov
 **Completions & Workover Engineering Lead — Basra Energy Company Limited**
 *BP / CNPC joint venture · Rumaila Field, Iraq · January 2024 – present*
 
-•	Lead the 19-position completions and workover engineering function (3 expatriate senior workover/stimulation engineers, 3 local senior workover engineers, 13 local workover engineers — planning desk), responsible for the planning, design and preparation of all field completion and workover programmes.
+•	Lead the completions and workover engineering function — a multinational team spanning expatriate and national senior engineers across workover, stimulation and planning-desk disciplines — responsible for the planning, design and preparation of all field completion and workover programmes.
+
+•	Own the technical authority for completion and workover programme design across the full active rig fleet, from concept through to rig-site execution readiness.
 
 Selected programme outcomes 2024–2025 (qualitative summary):
 

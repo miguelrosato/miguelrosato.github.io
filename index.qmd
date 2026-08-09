@@ -42,8 +42,8 @@ In May 2026 I completed **The Professional Certificate in Data Analytics at Impe
 
 - **Workover programme management at scale** — currently leading the Completions & Workover Engineering function at one of the world's largest mature giant fields (2024 – present). Programme transformation delivering material year-on-year throughput uplift at constant rig count, with substantial recovery and CAPEX/OPEX savings outcomes.
 - **Deepwater HPHT campaign — KG-D6** (BP / Reliance Industries, Bay of Bengal). Delivered 24 deepwater wells in up to 2,000 m water depth, with alternate-path open-hole gravel-pack lower completions and 7″ × 5½″ upper completions.
-- **Culzean HPHT DST** (Maersk Oil, North Sea UK). Prepared and supervised DSTs at 14,500 psi reservoir pressure / 380°F (193°C); managed £30M+ programme end-to-end from AFE through offshore execution.
-- **Pan-Malaysia Deepwater Wellhead Standardisation** (Petronas, 2012 – 2019). Technical lead for a standardised deepwater subsea wellhead and casing-schedule contract adopted across five operators; managed Completions portfolio contracts ~US$135M.
+- **Culzean HPHT DST** (Maersk Oil, North Sea UK). Prepared and supervised DSTs at 14,500 psi reservoir pressure / 380°F (193°C); carried the well-test programme end-to-end from AFE ownership through offshore execution.
+- **Pan-Malaysia Deepwater Wellhead Standardisation** (Petronas, 2012 – 2019). Technical lead for a standardised deepwater subsea wellhead and casing-schedule contract adopted across five operators; held technical authority over the completions contract portfolio for the programme.
 
 For technical papers, see [Publications](publications.qmd).
 
