@@ -35,6 +35,12 @@ drafts/
 draft/
 private/
 
+# Claude Code context — PRIVATE. Contains BECL compliance perimeter notes,
+# canonical CV metrics and Mattey Energy strategy. This repo is public.
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
 # Personal CV PDF — kept locally for emailing on request, never published
 CV_MRosato_2026.pdf
 MiguelRosato_CV.pdf
@@ -45,6 +51,17 @@ MiguelRosato_CV.pdf
 /index.html
 /publications.html
 /speaking.html
+
+# Stale rendered HTML left at source locations by local `quarto preview`.
+# The real build output lives in _site/ and is produced in CI.
+/analytics/*.html
+/lab/*.html
+/niches/*.html
+/services/*.html
+
+# Finder duplicate folders ("... 2", "... copy")
+*_files\ 2/
+*\ copy/
 
 **/*.quarto_ipynb
 
