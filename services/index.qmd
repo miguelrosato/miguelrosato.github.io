@@ -1,6 +1,6 @@
 ---
-title: "Services"
-subtitle: "Productised, fixed-scope wells engineering and analytics advisory. Five offers. Transparent pricing. Predictable turnaround."
+title: "Capabilities"
+subtitle: "Wells engineering and analytics advisory across five defined areas of work — HPHT and deepwater programme review, workover programme diagnostics, technical due diligence, tender review, and expert witness."
 listing:
   contents:
     - "programme-review.qmd"
@@ -16,20 +16,20 @@ listing:
   feed: false
 ---
 
-## How engagements work
+## How the work is structured
 
-Every engagement on this page is **fixed-scope and fixed-price**. No
-hourly drip; no scope creep; no surprises on the invoice. The starting
-move on any new engagement is a 30-minute discovery call — free, no
-obligation. After that, if there is a fit, I send a one-page proposal
-with deliverable, timeline and price. You decide, sign, and we begin.
+Each capability below is **fixed-scope and time-boxed**: a defined
+deliverable, a defined turnaround, no open-ended drift. The starting
+move is a short conversation about the problem — what the well or the
+programme actually is, what decision the work has to support, and what
+data exists. If there is a fit, I set out the scope, the deliverable and
+the timeline in writing before anything begins.
 
 ::: {.callout-tip appearance="simple"}
-**Not sure which service fits?**
-The fastest path is to [book a 30-minute discovery call](#discovery-call)
-below. I will tell you which offer is right (or that none of them is and
-you need a different specialist — I am not the right answer for every
-problem).
+**Not sure which area fits?**
+[Get in touch](#contact) and describe the problem. I will tell you which
+capability is right — or that none of them is and you need a different
+specialist. I am not the right answer for every problem.
 :::
 
 ## What I don't take on
@@ -43,20 +43,18 @@ To save us both time:
   contractor performance information, or confidential figures.
 - Generic data-science work outside wells engineering. I am a wells
   authority who has learned data, not a generalist data scientist.
-- Large open-ended retainers. Every service on this page is sized to
-  deliver something concrete in 5–30 days.
+- Open-ended advisory arrangements. Every capability on this page is
+  sized to deliver something concrete in 5–30 days.
 
-## Discovery call {#discovery-call}
+## Contact {#contact}
 
-Thirty minutes. I will tell you what I can help with, what I cannot, and
-what a useful next step looks like. No obligation.
+Describe the problem in a few lines — the well or the programme, the
+decision it has to support, and the timeline you are working to. I will
+tell you what I can help with, what I cannot, and what a useful next
+step looks like.
 
 ::: {.callout-note appearance="simple"}
-📅 **[Book a 30-minute discovery call →](https://cal.com/miguel-rosato/30min)**
-
-Cal.com link — once Cal.com is set up, this resolves to the booking
-page. Until then, [email me directly](mailto:miguel@mattey.energy) and I
-will reply with two or three time slots that work for your timezone.
+✉️ **[miguel@mattey.energy](mailto:miguel@mattey.energy)**
 :::
 
 ## Mattey Energy Ltd
@@ -64,4 +62,4 @@ will reply with two or three time slots that work for your timezone.
 Mattey Energy Ltd is the UK-registered consulting vehicle through which
 this work is delivered. Standard MSA, NDA and conflict-of-interest
 declaration available on request. Professional Indemnity insurance in
-place. Invoicing in GBP, EUR or USD.
+place.

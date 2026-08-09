@@ -29,7 +29,7 @@ website:
       - href: index.qmd
         text: Home
       - href: services/index.qmd
-        text: Services
+        text: Capabilities
       - href: about.qmd
         text: About
       - text: Technical Niches

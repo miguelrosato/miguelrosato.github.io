@@ -191,9 +191,8 @@ The formal-methods grounding comes from recent applied training
 (Professional Certificate in Data Analytics, Imperial College London,
 May 2026). The operational grounding comes from decades on the rig
 floor. The combination is what I bring to the
-[Workover Programme Audit](../services/workover-audit.html) service.
+[Workover Programme Audit](../services/workover-audit.html) capability.
 
 ---
 
-[**→ Discuss your workover programme** (30-min discovery call)](https://cal.com/miguel-rosato/30min) ·
-[Email me](mailto:miguel@mattey.energy)
+[**→ Discuss your workover programme**](mailto:miguel@mattey.energy)

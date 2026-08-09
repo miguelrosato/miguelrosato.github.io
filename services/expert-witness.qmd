@@ -43,13 +43,13 @@ contract / tender disputes in upstream completions.
 
 Three engagement formats:
 
-| Format | Deliverable | Price |
+| Format | Deliverable | Typical scale |
 |---|---|---|
-| **Technical brief (counsel orientation)** | 60–90 minute briefing call + 3–5 page summary memo + Q&A | **£450 – £650 / hour** (typical engagement 4–8 hours) |
-| **Written expert opinion** | Full technical opinion compliant with the rules of the relevant forum (CPR Part 35 in England & Wales; equivalent in other jurisdictions) | **£600 – £800 / hour** + agreed page fee |
-| **Deposition / testimony** | Preparation, deposition, cross-examination, follow-up | **£800 / hour** + travel + per-diem; preparation billed separately |
+| **Technical brief (counsel orientation)** | 60–90 minute briefing call + 3–5 page summary memo + Q&A | 4–8 hours |
+| **Written expert opinion** | Full technical opinion compliant with the rules of the relevant forum (CPR Part 35 in England & Wales; equivalent in other jurisdictions) | Scoped to the matter |
+| **Deposition / testimony** | Preparation, deposition, cross-examination, follow-up | Scoped to the forum timetable |
 
-: {tbl-colwidths="[28,42,30]"}
+: {tbl-colwidths="[28,50,22]"}
 
 ## What this is not
 
@@ -61,13 +61,12 @@ Three engagement formats:
 
 ## Process
 
-1. **30-minute discovery call** under NDA. You describe the matter, the
-   forum, the timeline, the specific technical question.
+1. **Initial call** under NDA. You describe the matter, the forum, the
+   timeline, and the specific technical question.
 2. **Conflict check.** I run a structured COI declaration against my
    current and prior engagements. Either we proceed cleanly or I decline
    on the call.
-3. **Engagement letter** (typically your standard form) signed within
-   48 hours.
+3. **Engagement letter** (typically your standard form).
 4. **Work delivered** to the agreed scope — brief, opinion, or testimony.
 
 ## Frequently asked
@@ -80,22 +79,21 @@ duty to the court / tribunal at all times.
 **Can you act on matters outside England & Wales?**
 Yes. I have worked on tender / contract matters in the North Sea (UK),
 West Africa, Bay of Bengal and the Gulf. Specific jurisdictional rules
-discussed on the discovery call.
+discussed on the initial call.
 
 **What is your typical case profile?**
-Mid-complexity matters where the technical exposure sits between £2M
-and £150M, and the dispute centres on completion design, workover
-execution, well integrity failure, or tender / contract interpretation.
+Mid-complexity matters where the dispute centres on completion design,
+workover execution, well integrity failure, or tender / contract
+interpretation.
 
 **Do you have professional indemnity insurance for instructed work?**
-Yes. £1M cover via Mattey Energy Ltd. Higher cover available on request
-for larger matters.
+Yes, held via Mattey Energy Ltd. Cover details on request; higher cover
+available for larger matters.
 
 **Will you publish anything from the engagement?**
 Never. Expert-witness work is strictly confidential and remains so
 indefinitely.
 
-## Book a discovery call
+## Get in touch
 
-[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
-[Email me directly →](mailto:miguel@mattey.energy)
+[✉️ miguel@mattey.energy](mailto:miguel@mattey.energy)

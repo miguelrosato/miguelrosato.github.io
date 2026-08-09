@@ -36,9 +36,9 @@ non-disclosure, with all outputs remaining the client's property.
 
 Three reasons:
 
-1. **Specification before sale.** A buyer-side reader can read these
-   pages and form a defensible view on whether the methodology fits
-   their problem *before* the discovery call. That saves time on both
+1. **Specification up front.** A technical reader can read these pages
+   and form a defensible view on whether the methodology fits their
+   problem *before* the first conversation. That saves time on both
    sides.
 2. **Credibility through transparency.** The classical formulations
    are public-domain techniques (Dantzig 1947, Cox 1972,

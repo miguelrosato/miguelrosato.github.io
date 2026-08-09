@@ -21,11 +21,11 @@ about:
 ---
 
 ::: {.callout-tip appearance="default" icon=false}
-### Hire Mattey Energy
+### Mattey Energy — advisory capabilities
 
-Five fixed-scope, fixed-price wells engineering and analytics services for operators, service companies, PE / diligence teams and law firms. **Completion programme reviews from £950**, technical due diligence from £3,500, expert-network calls at standard platform rates, tender response review at £3,250 fixed, expert-witness work at chartered-engineer rates.
+Five fixed-scope areas of wells engineering and analytics advisory for operators, service companies, PE / diligence teams and law firms: completion programme independent review, workover programme audit, technical due diligence, tender response review, and expert witness.
 
-[**Browse services →**](services/) · [Book a 30-min discovery call →](https://cal.com/miguel-rosato/30min) · [Email me →](mailto:miguel@mattey.energy)
+[**Browse capabilities →**](services/) · [Email me →](mailto:miguel@mattey.energy)
 :::
 
 ## About me
@@ -36,7 +36,7 @@ I am based in **Madrid, Spain**, with Italian citizenship and a global operation
 
 My technical identity sits at three intersections: **HPHT completions and well testing**, **deepwater subsea completions** (including 6th-generation drillship operations and alternate-path gravel-pack sand control) and **workover engineering at scale** — leading the Completions & Workover function at one of the world's largest mature giant fields.
 
-In May 2026 I completed **The Professional Certificate in Data Analytics at Imperial College London** — adding rigorous quantitative methods (supervised and unsupervised machine learning, mixed-integer linear programming, survival analysis) to my wells engineering toolkit. This site is the public surface of my professional credentials, niche specialisations and the advisory services offered through Mattey Energy Ltd.
+In May 2026 I completed **The Professional Certificate in Data Analytics at Imperial College London** — adding rigorous quantitative methods (supervised and unsupervised machine learning, mixed-integer linear programming, survival analysis) to my wells engineering toolkit. This site is the public surface of my professional credentials, niche specialisations and the advisory capabilities offered through Mattey Energy Ltd.
 
 ## Selected experience
 

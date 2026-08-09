@@ -17,13 +17,13 @@ or DST scope of the contract.
 **If you are the service company (seller side):** you have a high-value
 ITT in front of you, the bid is due in 5–10 days, and your completions
 team is thin. You need a senior completions/workover authority to read
-the technical sections, flag the gaps, sharpen the win themes, and stress-test
-the cost narrative before submission.
+the technical sections, flag the gaps, sharpen the win themes, and
+stress-test the technical narrative before submission.
 
 ## What you get
 
-A **3,250-pound fixed-price tender review** — buyer-side or
-seller-side — with the following deliverable:
+A fixed-scope tender review — buyer-side or seller-side — with the
+following deliverable:
 
 - 5–8 page review memo organised by tender section
 - Prioritised technical gap list (most material first)
@@ -33,11 +33,9 @@ seller-side — with the following deliverable:
 
 **Turnaround: 5 working days.**
 
-**Price: £3,250 fixed.**
-
 ## What this is not
 
-- Not a commercial bid review. Pricing strategy is not my scope.
+- Not a commercial bid review. Commercial strategy is not my scope.
 - Not a procurement-process audit. I review the technical content of
   one specific tender, not your wider procurement function.
 - Not a contract drafting service. I am not a lawyer.
@@ -46,7 +44,7 @@ seller-side — with the following deliverable:
 
 ## Process
 
-1. **30-min discovery call** under NDA.
+1. **Initial call** under NDA.
 2. **Document handover.** Typical scope: ITT or RFP, technical
    submissions / bids, equipment specifications, prior performance data,
    evaluation rubric (buyer side) or competitor intelligence (seller
@@ -71,18 +69,13 @@ firewall is absolute.
 **How do you handle conflict with your current employer?**
 I will not review any tender involving Basra Energy Company Limited,
 BP, CNPC, or any active vendor relationship with BECL. Disclosed on the
-discovery call.
+initial call.
 
 **Can you turn this around faster than 5 days?**
 Sometimes. The 5-day standard reflects the time needed to give the work
-proper attention. I will agree to 72 hours under exceptional
-circumstances at a +30% rush rate.
+proper attention. Compressed turnarounds are possible under exceptional
+circumstances and agreed case by case.
 
-**What happens if I cancel mid-review?**
-50% refund if cancelled before the review starts; 0% refund after the
-working notes are delivered on day 2.
+## Get in touch
 
-## Book a discovery call
-
-[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
-[Email me directly →](mailto:miguel@mattey.energy)
+[✉️ miguel@mattey.energy](mailto:miguel@mattey.energy)

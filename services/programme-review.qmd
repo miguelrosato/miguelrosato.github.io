@@ -17,17 +17,17 @@ the well.
 
 ## What you get
 
-Three tiers, depending on how much scrutiny you need:
+Three levels of scrutiny, depending on what the decision needs:
 
-| Tier | Deliverable | Turnaround | Price |
-|---|---|---|---|
-| **Quick Look** | 60-minute scoping call + 1-page red-flag note covering 3–5 highest-risk issues | 5 working days | **£950** |
-| **Programme Review** | Full document review (BoD, well programme, risk register, materials selection) + 5-page memo with prioritised findings + 60-minute readout call | 10 working days | **£2,950** |
-| **Deep Dive** | Programme Review plus 1-day on-site / remote workshop with the well team, structured well-on-paper facilitation, post-workshop report | 30 days end-to-end | **£8,500 – £14,500** |
+| Level | Deliverable | Turnaround |
+|---|---|---|
+| **Quick Look** | 60-minute scoping call + 1-page red-flag note covering 3–5 highest-risk issues | 5 working days |
+| **Programme Review** | Full document review (BoD, well programme, risk register, materials selection) + 5-page memo with prioritised findings + 60-minute readout call | 10 working days |
+| **Deep Dive** | Programme Review plus 1-day on-site / remote workshop with the well team, structured well-on-paper facilitation, post-workshop report | 30 days end-to-end |
 
-: {tbl-colwidths="[18,46,16,20]"}
+: {tbl-colwidths="[20,60,20]"}
 
-The Programme Review tier is the most common entry point.
+The Programme Review level is the most common entry point.
 
 ## What this is not
 
@@ -39,10 +39,10 @@ The Programme Review tier is the most common entry point.
 
 ## Process
 
-1. **30-min discovery call** — you explain the well, the timeline, what
-   you need an independent opinion on. I tell you which tier fits.
-2. **One-page proposal** — fixed price, fixed scope, fixed deliverable.
-   Signed within 24 hours.
+1. **Initial call** — you explain the well, the timeline, and what you
+   need an independent opinion on. I tell you which level fits.
+2. **One-page scope note** — fixed scope, fixed deliverable, fixed
+   turnaround, agreed before work starts.
 3. **Delivery on the agreed turnaround.** You receive a clean memo or
    report; we run the readout call; you decide what to act on.
 
@@ -53,7 +53,7 @@ Yes. Standard mutual NDA available, or I will sign yours after a quick
 legal scan.
 
 **Do you have professional indemnity insurance?**
-Yes. £1M cover via Mattey Energy Ltd.
+Yes, held via Mattey Energy Ltd. Cover details on request.
 
 **Will you take work that conflicts with your day role?**
 No. I keep a strict conflict-of-interest framework and decline anything
@@ -61,16 +61,10 @@ that touches Basra Energy Company Limited's operational footprint or
 BP / CNPC JV interests.
 
 **Who owns the deliverable?**
-You do, on full payment. I retain the right to publish the *methodology*
-in anonymised form (no client name, no well name, no figures); the
-underlying documents and any client-specific findings remain confidential.
+You do. I retain the right to publish the *methodology* in anonymised
+form (no client name, no well name, no figures); the underlying
+documents and any client-specific findings remain confidential.
 
-**What happens if I cancel?**
-Quick Look: 50% refund if cancelled before the call. Programme Review:
-50% refund before document handover, 0% after. Deep Dive: pro-rated by
-hours delivered.
+## Get in touch
 
-## Book a discovery call
-
-[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
-[Email me directly →](mailto:miguel@mattey.energy)
+[✉️ miguel@mattey.energy](mailto:miguel@mattey.energy)

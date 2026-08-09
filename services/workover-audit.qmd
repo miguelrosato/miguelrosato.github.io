@@ -37,9 +37,9 @@ A structured operational diagnostic with three deliverables:
    Manager / Wells Manager audience. Specific, dated, with named owners
    and quantified expected uplift.
 
-**Price: £8,500 – £14,500 fixed** depending on fleet size and data
-volume. 30-day turnaround. Reference engagements and methodology
-worked examples available under non-disclosure on request.
+**Turnaround: 30 days**, scaled to fleet size and data volume. Reference
+engagements and methodology worked examples available under
+non-disclosure on request.
 
 ## What this is not
 
@@ -54,8 +54,8 @@ worked examples available under non-disclosure on request.
 
 ## Process
 
-1. **30-min discovery call.** You describe the programme, the
-   throughput history, what data is available.
+1. **Initial call.** You describe the programme, the throughput history,
+   and what data is available.
 2. **Data scope agreement.** We agree what gets shared, under what NDA,
    and in what format. Anonymised dataset preferred; full dataset under
    NDA also workable.
@@ -84,14 +84,13 @@ formulation to your operational reality on the scoping call.
 **What if we don't have clean data?**
 Common situation. The first week of the engagement includes data-quality
 remediation as standard. If the data is irrecoverable, I will tell you
-on the discovery call and we will not start.
+on the initial call and we will not start.
 
 **Can you do this work for an operator who competes with BECL / BP / CNPC?**
 Conflict-of-interest decision case by case. Operators outside the
 Mesopotamian Basin and outside BP / CNPC JV footprint are typically
 clear.
 
-## Book a discovery call
+## Get in touch
 
-[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
-[Email me directly →](mailto:miguel@mattey.energy)
+[✉️ miguel@mattey.energy](mailto:miguel@mattey.energy)

@@ -25,12 +25,12 @@ technical due diligence on multiple operator-side assets.
 
 Two engagement formats, depending on what your timeline supports:
 
-| Format | Deliverable | Turnaround | Price |
-|---|---|---|---|
-| **Expert-network call** | 60-minute call (recorded or unrecorded) on a specific technical question | Same day to 48 hours | **$500 – $1,500 / hour** (via GLG, Third Bridge, AlphaSights, Coleman, Guidepoint, Tegus) or direct |
-| **Diligence Sprint** | Data-room review + 8–12 page technical opinion + 60-minute Q&A | 5–10 working days | **£3,500 – £6,500 fixed** |
+| Format | Deliverable | Turnaround |
+|---|---|---|
+| **Expert-network call** | 60-minute call (recorded or unrecorded) on a specific technical question, direct or via GLG, Third Bridge, AlphaSights, Coleman, Guidepoint or Tegus | Same day to 48 hours |
+| **Diligence Sprint** | Data-room review + 8–12 page technical opinion + 60-minute Q&A | 5–10 working days |
 
-: {tbl-colwidths="[20,44,18,18]"}
+: {tbl-colwidths="[20,60,20]"}
 
 The Diligence Sprint is the higher-value engagement when there is a
 data room to review and a written opinion the IC can read.
@@ -60,7 +60,7 @@ data room to review and a written opinion the IC can read.
 
 ### Diligence Sprint
 
-1. **30-min discovery call.** You describe the asset, the IC date, the
+1. **Initial call.** You describe the asset, the IC date, and the
    specific questions.
 2. **NDA + data-room access.** Signed within 24 hours.
 3. **Data-room review** over 3–5 working days.
@@ -88,10 +88,9 @@ available under standard NDA.
 Yes. Either your NDA or my standard mutual NDA works.
 
 **What about conflict of interest with the target asset?**
-Discussed on the discovery call. I will decline cleanly if there is a
+Discussed on the initial call. I will decline cleanly if there is a
 conflict — better to lose the engagement than the trust.
 
-## Book a discovery call
+## Get in touch
 
-[📅 Book 30 minutes →](https://cal.com/miguel-rosato/30min) ·
-[Email me directly →](mailto:miguel@mattey.energy)
+[✉️ miguel@mattey.energy](mailto:miguel@mattey.energy)
