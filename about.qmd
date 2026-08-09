@@ -7,7 +7,7 @@ subtitle: "Twenty-five years across six tier-one operators, three technical spec
 
 I am a Completions and Workover engineer with twenty-five years of operator-side experience, currently leading a 19-position completions and workover engineering function responsible for the planning and execution of completions for **six drilling rigs** and workovers for **thirteen workover rigs** across the Rumaila Field in southern Iraq.
 
-I work in two deliberate modes. In **expert mode** — completion design, workover strategy, problem diagnosis on the rig floor — twenty-five years of pattern-matching does most of the work in minutes. In **student mode** — currently the Imperial College Data Analytics certificate — I rebuild every module from the ground up: re-typing exercises into VS Code from screenshots, building presentations to consolidate what I have learned, and asking for line-by-line annotation when complex code refuses to click. I bring both modes to my work and to my collaborations.
+I work in two deliberate modes. In **expert mode** — completion design, workover strategy, problem diagnosis on the rig floor — twenty-five years of pattern-matching does most of the work in minutes. In **student mode** — most recently the Imperial College Data Analytics certificate, completed in May 2026 — I rebuild every module from the ground up: re-typing exercises into VS Code from screenshots, building presentations to consolidate what I have learned, and asking for line-by-line annotation when complex code refuses to click. I bring both modes to my work and to my collaborations.
 
 ## Current role
 
